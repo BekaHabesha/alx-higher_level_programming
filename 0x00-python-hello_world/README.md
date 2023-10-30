@@ -1,14 +1,4 @@
-# Project_Title:
-  *                 0x00. Python - Hello, World
-
-# GitHub_Repository:
-  *                 alx-higher_level_programming
-
-# Directory:
-  *                  0x00-python-hello_world
-
-
-/*
+# /*
 * File_name: README.md file
 * Created: On October 30, 2023
 * Author: Bereket Dereje Mekonnen
@@ -19,7 +9,19 @@
 *     in number: 14 Tasks (11Mandatory & 3Advanced)
 * Mandatory_Tasks: From Task 0 to 10
 * Advanced_Tasks: From Task 11 to 13
-*/
+# */
+
+
+* Project_Title:
+#                 0x00. Python - Hello, World
+
+* GitHub_Repository:
+#                 alx-higher_level_programming
+
+* Directory:
+#                  0x00-python-hello_world
+
+
 
 
 
@@ -47,8 +49,7 @@
 # No. 3. Print integer
   * 3-print_number.py
     * Complete this source code in order to print the integer stored in the variable number, followed by Battery street, followed by a new line.
-    * fork must not be called if the command doesn’t exist
-
+    
 # No. 4. Print float
   * 4-print_float.py
     * Complete the source code in order to print the float stored in the variable number with a precision of 2 digits.
@@ -77,16 +78,16 @@
 
 # No. 10. Linked list cycle
   * 10-check_cycle.c
-  * Technical interview preparation:
-    * You are not allowed to google anything
-    * This task and all future technical interview prep tasks will include checks for the efficiency of your solution, i.e. is your solution’s runtime fast enough, does your solution require extra memory usage / mallocs, etc.
+    * Technical interview preparation:
+      * You are not allowed to google anything
+      * This task and all future technical interview prep tasks will include checks for the efficiency of your solution, i.e. is your solution’s runtime fast enough, does your solution require extra memory usage / mallocs, etc.
 
-  * Write a function in C that checks if a singly linked list has a cycle in it.
-    * Prototype: int check_cycle(listint_t *list);
-    * Return: 0 if there is no cycle, 1 if there is a cycle
+    * Write a function in C that checks if a singly linked list has a cycle in it.
+      * Prototype: int check_cycle(listint_t *list);
+      * Return: 0 if there is no cycle, 1 if there is a cycle
 
-  * Requirements:
-    * Only these functions are allowed: write, printf, putchar, puts, malloc, free
+    * Requirements:
+      * Only these functions are allowed: write, printf, putchar, puts, malloc, free
 
 
 # @Advanced_Tasks (From Task 6 to 16)
@@ -101,4 +102,4 @@
 
 # No. 13. ByteCode -> Python #1
   * 102-magic_calculation.py
-    * Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
+    * Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode.
