@@ -1,4 +1,7 @@
-# /*
+# README.md File
+  # 0x00. Python - Hello, World README.md File
+
+
 * File_name: README.md file
 * Created: On October 30, 2023
 * Author: Bereket Dereje Mekonnen
@@ -6,17 +9,18 @@
 * GitHub repository: alx-higher_level_programming
 * Directory: 0x00-python-hello_world
 * Project Tasks: Mandatory and Advanced
-*     in number: 14 Tasks (11Mandatory & 3Advanced)
+* Tasks in number: 14 Tasks (11Mandatory & 3Advanced)
 * Mandatory_Tasks: From Task 0 to 10
 * Advanced_Tasks: From Task 11 to 13
-# */
 
 
 * Project_Title:
 #                 0x00. Python - Hello, World
 
+
 * GitHub_Repository:
 #                 alx-higher_level_programming
+
 
 * Directory:
 #                  0x00-python-hello_world
@@ -25,26 +29,26 @@
 
 
 
-#                  TASKS
+# PROJECT TASKS (Mandatory and Advanced)
 
 
-# @ Mandatory_Tasks (From Task 0 to 10)
+# @MANDATORY_TASKS (From Task 0 to 10)
 
 
 # N0. 0. Run Python file
   * 0-run
-   * Write a shell script that runs a Python script.
-     * The Python file name will be saved in the environment variable $PYFILE
+    * Write a shell script that runs a Python script.
+      * The Python file name will be saved in the environment variable $PYFILE
 
 # No. 1. Run inline
   * 1-run_inline
-   * Write a shell script that runs Python code.
-     * The Python code will be saved in the environment variable $PYFILE
+    * Write a shell script that runs Python code.
+      * The Python code will be saved in the environment variable $PYFILE
 
 # No. 2. Hello, print
   * 2-print.py
-   * Write a Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
-     * Use the function print
+    * Write a Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
+      * Use the function print
 
 # No. 3. Print integer
   * 3-print_number.py
