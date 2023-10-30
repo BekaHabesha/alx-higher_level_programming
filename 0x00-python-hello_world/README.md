@@ -1,7 +1,7 @@
 # README.md File
   # 0x00. Python - Hello, World README.md File
 
-
+#
 * File_name: README.md file
 * Created: On October 30, 2023
 * Author: Bereket Dereje Mekonnen
@@ -12,6 +12,9 @@
 * Tasks in number: 14 Tasks (11Mandatory & 3Advanced)
 * Mandatory_Tasks: From Task 0 to 10
 * Advanced_Tasks: From Task 11 to 13
+
+#                            
+
 
 
 * Project_Title:
@@ -106,4 +109,4 @@
 
 # No. 13. ByteCode -> Python #1
   * 102-magic_calculation.py
-    * Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode.
+    * Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode
