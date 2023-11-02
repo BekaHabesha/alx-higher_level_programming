@@ -15,26 +15,22 @@
 
 #    
 
-# Project_Title:
+* Project_Title:
 #                0x02. Python - import & modules
 
-# GitHub_Repository:
+* GitHub_Repository:
 #                alx-higher_level_programming
 
-# Directory:
+* Directory:
 #                0x02-python-import_modules
-
 #
 
 
 # PROJECT TASKS (Mandatory and Advanced)
 #
-#
 
 # @MANDATORY_TASKS (From Task 0 to 5)
 #
-#
-
 
 # No. 0. Import a simple function from a simple file 
   * 0-add.py
@@ -49,6 +45,7 @@
      * You can only use the word add_0 once in your code.
      * You are not allowed to use * for importing or __import__.
      * Your code should not be executed when imported - by using __import__.
+#
 
 
 # No. 1. My first toolbox!
@@ -64,6 +61,7 @@
      * the word calculator_1 should be used only once in your file
      * You are not allowed to use * for importing or __import__
      * Your code should not be executed when imported
+#
 
 
 # No. 2. How to make a script dynamic!
@@ -78,6 +76,7 @@
      * Your code should not be executed when imported
      * The number of elements of argv can be retrieved by using: len(argv).
      * You do not have to fully understand lists yet, but imagine that argv can be used just like a C array: you can use an index to walk through it
+#
 
 
 # No. 3. Infinite addition
@@ -86,6 +85,7 @@
       * The output should be the result of the addition of all arguments, followed by a new line
       * You can cast arguments into integers by using int() (you can assume that all arguments can be casted into integers)
       * Your code should not be executed when imported
+#
 
 
 # No. 4. Who are you?
@@ -95,6 +95,7 @@
       * You should print only names that do not start with __
       * Your code should not be executed when imported
       * Make sure you are running your code in Python3.8.x (hidden_4.pyc has been compiled with this version)
+#
 
 
 # No. 5. Everything can be imported
@@ -103,12 +104,8 @@
       * You are not allowed to use * for importing or __import__
       * Your code should not be executed when imported
 
-
-#
 #
 # @Advanced_Tasks (From Task 6 to 9)
-#
-#
 #
 
 # No. 6. Build my own calculator!
@@ -130,6 +127,7 @@
         * The result should be printed like this: <a> <operator> <b> = <result>, followed by a new line
       * You are not allowed to use * for importing or __import__
       * Your code should not be executed when imported
+#
 
 
 # No. 7. Easy print
@@ -137,12 +135,14 @@
     * Write a program that prints #pythoniscool, followed by a new line, in the standard output.
       * Your program should be maximum 2 lines long
       * You are not allowed to use print or eval or open or import sys in your file 101-easy_print.py
+#
 
 
 # No. 8. ByteCode -> Python #3
   * 102-magic_calculation.py
     * Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
       * Tip: Python bytecode
+#
 
 
 # No. 9. Fast alphabet
@@ -155,3 +155,4 @@
         * str.join()
         * any string literal
         * any any system calls
+#
