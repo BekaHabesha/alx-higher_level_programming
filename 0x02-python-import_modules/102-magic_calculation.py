@@ -1,10 +1,13 @@
 #!/usr/bin/python3
 # Author - Bereket Dereje
 
-def uppercase(str):
-    """Print a string in uppercase."""
-    for c in str:
-        if ord(c) >= 97 and ord(c) <= 122:
-             c = chr(ord(c) - 32)
-        print("{}".format(c), end="")
-    print("")
+def magic_calculation(a, b):
+    """Same as the given Python bytecode."""
+    from magic_calculation_102 import add, sub
+    if a < b:
+        c = add(a, b)
+        for i in range(4, 6):
+            c = add(c, i)
+        return (c)
+    else:
+        return (sub(a, b))
