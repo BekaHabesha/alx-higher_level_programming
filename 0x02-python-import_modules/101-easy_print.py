@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-f"#pythoniscool"
+input("os").write(1, "#pythoniscool\n".encode("UTF-8"))
