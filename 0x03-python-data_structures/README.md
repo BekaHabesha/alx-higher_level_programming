@@ -67,10 +67,10 @@
       * Prototype:
         * def replace_in_list(my_list, idx, element):
       * If idx is negative,
-        * the function should not modify anything, and 
+        * the function should not modify anything, and
         * returns the original list
       * If idx is out of range (> of number of element in my_list),
-        * the function should not modify anything, and 
+        * the function should not modify anything, and
         * returns the original list
       * You are not allowed to import any module
       * You are not allowed to use try/except
@@ -188,7 +188,7 @@
     * <ins>**Write a function that deletes the item at a specific position in a list.**</ins>
       * Prototype:
         * def delete_at(my_list=[], idx=0):
-      * If idx is negative or out of range, 
+      * If idx is negative or out of range,
         * nothing change (returns the same list)
       * You are not allowed to use pop()
       * You are not allowed to import any module
@@ -217,11 +217,11 @@
 
 #
 
-<h1 align="center"> ADVANCED_TASKS (Task 14)*</h1>
+<h1 align="center"> ADVANCED_TASKS (Task 14)</h1>
 
 ## **14. CPython #0: Python lists**
   * <ins>**100-print_python_list_info.c**</ins>
-    * CPython is the reference implementation of the Python programming language. 
+    * CPython is the reference implementation of the Python programming language.
       * Written in C, CPython is the default and most widely used implementation of the language.
     * Since we now know a bit of C,
       * we can look at what is happening under the hood of Python.
