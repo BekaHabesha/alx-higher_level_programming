@@ -8,7 +8,7 @@
 * File_name: <ins>**README.md file**</ins>
 * Created: <ins>**On November 5, 2023**</ins>
 * Author: <ins>***Bereket Dereje Mekonnen***</ins>
-* Project: <ins>**0x03. Python - Data Structures: Lists, Tuples</ins>
+* Project: <ins>**0x03. Python - Data Structures: Lists, Tuples**</ins>
 * GitHub repository: <ins>**alx-higher_level_programming**</ins>
 * Directory: <ins>**0x03-python-data_structures**</ins>
 * Project Tasks: <ins>**Mandatory and Advanced**</ins>
@@ -26,13 +26,11 @@
 ### **DIRECTORY:**
 <h2 align="center"> <ins>0x03-python-data_structures</ins> </h2>
 
-# Background Context
-  * Write a simple UNIX command interpreter.
-![Write a simple UNIX command interpreter.]( https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
+![Write a simple UNIX command interpreter.]( https://res.cloudinary.com/practicaldev/image/fetch/s--vsp8TPQo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eqk9up4gzrgz8f7egozd.png)
 
 <h1 align="center"> <ins> PROJECT TASKS (Mandatory and Advanced)</h1> </ins>
 
-<h1 align="center">*MANDATORY_TASKS (From Task 0 to 5)*</h1>
+<h1 align="center"> MANDATORY_TASKS (From Task 0 to 5)</h1>
 
 ## **No. 0. Print a list of integers**
   * <ins>**0-print_list_integer.py**</ins>
