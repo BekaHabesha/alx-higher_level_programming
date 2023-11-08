@@ -1,5 +1,5 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
-<H1 align="center", height="1500"> <ins> 0x04. Python- More Data Structures: <br> Set, Dictionary README.md File</ins> </H1>
+<H1 align="center", height="1500"> <ins> 0x04.Python-More Data Structures: Set, Dictionary<br> README.md File</ins> </H1>
 
 ![Beki Habesha.]( https://i.ibb.co/5WfyHVB/Alx-logo-0x04-Python-More-Data-Structures-Set-Dictionary.jpg)
 
@@ -38,7 +38,7 @@
 |   | MANDATORY TASKS |  |  |
 |   |   |   |   |
 |   |   |   |  |
-| 0 | 0. Squared simple | 0-square_matrix_simple.py | def square_matrix_simple(matrix=[]): |
+| 0 | Squared simple | 0-square_matrix_simple.py | def square_matrix_simple(matrix=[]): |
 | 1 | Search and replace | 1-search_replace.py | def search_replace(my_list, search, replace): |
 | 2 | Unique addition | 2-uniq_add.py | def uniq_add(my_list=[]): |
 | 3 | Present in both | 3-common_elements.py | def common_elements(set_1, set_2): |
