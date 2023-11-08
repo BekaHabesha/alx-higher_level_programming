@@ -3,7 +3,8 @@
 
 ![Beki Habesha.]( https://i.ibb.co/Tbnqxxr/Alx-logo-0x04-Python-More-Data-Structures-Set-Dictionary.png)
 
-#
+
+##
 
 * File_name: <ins>**README.md file**</ins>
 * Created: <ins>**On November 11, 2023**</ins>
@@ -15,7 +16,8 @@
 * Tasks in number: <ins>**17 Tasks (13Mandatory & 4Advanced)**</ins>
 * Mandatory_Tasks: <ins>**From Task 0 to 12**</ins>
 * Advanced_Tasks: <ins>**From Task 13 to 16**</ins>
-#
+
+##
 
 ### **PROJECT_TITLE:**
 <h2 align="center"> <ins>0x04. Python- More Data Structures, Set, Dictionary</ins> </h2>
@@ -28,33 +30,33 @@
 
 ##
 
-# Project Prototype Lists Table
+# 0x04.Python-Project Prototype Lists Table
 
-| 0x04.Python-Prototype Lists Table | Task NO. | Title | File | Prototype |
-| :----: | :----:| :----: | :----: | :----: |
+| Task NO. | Title | File | Prototype |
+| :----: | :----:| :----: | :----: |
 |  |   |   |   |   |
-| MANDATORY TASKS |   |   |   |   |
-| | 0 | 0. Squared simple | 0-square_matrix_simple.py | def square_matrix_simple(matrix=[]): |
-| | 1 | Search and replace | 1-search_replace.py | def search_replace(my_list, search, replace): |
-| | 2 | Unique addition | 2-uniq_add.py | def uniq_add(my_list=[]): |
-| | 3 | Present in both | 3-common_elements.py | def common_elements(set_1, set_2): |
-| | 4 | Only differents | 4-only_diff_elements.py | def only_diff_elements(set_1, set_2): |
-| | 5 | Number of keys | 5-number_keys.py | def number_keys(a_dictionary): |
-| | 6 | Print sorted dictionary | 6-print_sorted_dictionary.py | def print_sorted_dictionary(a_dictionary): |
-| | 7 | Update dictionary | 7-update_dictionary.py | def update_dictionary(a_dictionary, key, value): |
-| | 8 | Simple delete by key | 8-simple_delete.py | def simple_delete(a_dictionary, key=""): |
-| | 9 | Multiply by 2 | 9-multiply_by_2.py | def multiply_by_2(a_dictionary): |
-| | 10 | Best score | 10-best_score.py | def best_score(a_dictionary): |
-| | 11 | Multiply by using map | 11-multiply_list_map.py | def multiply_list_map(my_list=[], number=0): |
-| | 12 | Roman to Integer | 12-roman_to_int.py | def roman_to_int(roman_string): |
-|  |   |   |   |   |
-| ADVANCED TASKS |   |   |   |   |
-| | 13 | Weighted average! | 100-weight_average.py | def weight_average(my_list=[]): |
-| | 14 | Squared by using map | 101-square_matrix_map.py | def square_matrix_map(matrix=[]): |
-| | 15 | Delete by value | 102-complex_delete.py | def complex_delete(a_dictionary, value): |
-| | 16 | CPython #1: PyBytesObject | 103-python.c | void print_python_list(PyObject *p); |
-| | 16.1 | Python lists: |  | void print_python_list(PyObject *p); |
-| | 16.2 | Python bytes: |  | void print_python_bytes(PyObject *p); |
+| MANDATORY TASKS |   |   |   |
+| 0 | 0. Squared simple | 0-square_matrix_simple.py | def square_matrix_simple(matrix=[]): |
+| 1 | Search and replace | 1-search_replace.py | def search_replace(my_list, search, replace): |
+| 2 | Unique addition | 2-uniq_add.py | def uniq_add(my_list=[]): |
+| 3 | Present in both | 3-common_elements.py | def common_elements(set_1, set_2): |
+| 4 | Only differents | 4-only_diff_elements.py | def only_diff_elements(set_1, set_2): |
+| 5 | Number of keys | 5-number_keys.py | def number_keys(a_dictionary): |
+| 6 | Print sorted dictionary | 6-print_sorted_dictionary.py | def print_sorted_dictionary(a_dictionary): |
+| 7 | Update dictionary | 7-update_dictionary.py | def update_dictionary(a_dictionary, key, value): |
+| 8 | Simple delete by key | 8-simple_delete.py | def simple_delete(a_dictionary, key=""): |
+| 9 | Multiply by 2 | 9-multiply_by_2.py | def multiply_by_2(a_dictionary): |
+| 10 | Best score | 10-best_score.py | def best_score(a_dictionary): |
+| 11 | Multiply by using map | 11-multiply_list_map.py | def multiply_list_map(my_list=[], number=0): |
+| 12 | Roman to Integer | 12-roman_to_int.py | def roman_to_int(roman_string): |
+|   |   |   |   |
+| ADVANCED TASKS |   |   |   |
+| 13 | Weighted average! | 100-weight_average.py | def weight_average(my_list=[]): |
+| 14 | Squared by using map | 101-square_matrix_map.py | def square_matrix_map(matrix=[]): |
+| 15 | Delete by value | 102-complex_delete.py | def complex_delete(a_dictionary, value): |
+| 16 | CPython #1: PyBytesObject | 103-python.c | void print_python_list(PyObject *p); |
+| 16.1 | Python lists: |  | void print_python_list(PyObject *p); |
+| 16.2 | Python bytes: |  | void print_python_bytes(PyObject *p); |
 
 ##
 
