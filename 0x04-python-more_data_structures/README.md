@@ -1,8 +1,43 @@
+<H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
+<H1 align="center"> <ins> 0x04. Python- More Data Structures: <br> Set, Dictionary README.md File</ins> </H1>
+
+![Beki Habesha.]( https://i.ibb.co/pybj9ng/Alx-logo-0x04-Python-More-Data-Structures-Set-Dictionary.png)
+
+
+##
+
+* File_name: <ins>**README.md file**</ins>
+* Created: <ins>**On November 11, 2023**</ins>
+* Author: <ins>***Bereket Dereje Mekonnen***</ins>
+* Project: <ins>**0x04. Python- More Data Structures, Set, Dictionary**</ins>
+* GitHub repository: <ins>**alx-higher_level_programming**</ins>
+* Directory: <ins>**0x04-python-more_data_structures**</ins>
+* Project Tasks: <ins>**Mandatory and Advanced**</ins>
+* Tasks in number: <ins>**17 Tasks (13Mandatory & 4Advanced)**</ins>
+* Mandatory_Tasks: <ins>**From Task 0 to 12**</ins>
+* Advanced_Tasks: <ins>**From Task 13 to 16**</ins>
+
+##
+
+### **PROJECT_TITLE:**
+<h2 align="center"> <ins>0x04. Python- More Data Structures, Set, Dictionary</ins> </h2>
+
+### **GITHUB_REPOSITORY:**
+<h2 align="center"> <ins>alx-higher_level_programming</ins> </h2>
+
+### **DIRECTORY:**
+<h2 align="center"> <ins>0x04-python-more_data_structures</ins> </h2>
+
+##
+
+# 0x04.Python-Project Prototype Lists Table
+
 | Task NO. | Title | File | Prototype |
 | :----: | :----:| :----: | :----: |
 |   |   |   |   |
-|   |   |   |   |
-|  |   |   | MANDATORY TASKS |
+| MANDA |   |   |  |
+| TORY  |   |   |  |
+| TASKS |   |   |  |
 | 0 | 0. Squared simple | 0-square_matrix_simple.py | def square_matrix_simple(matrix=[]): |
 | 1 | Search and replace | 1-search_replace.py | def search_replace(my_list, search, replace): |
 | 2 | Unique addition | 2-uniq_add.py | def uniq_add(my_list=[]): |
@@ -17,8 +52,9 @@
 | 11 | Multiply by using map | 11-multiply_list_map.py | def multiply_list_map(my_list=[], number=0): |
 | 12 | Roman to Integer | 12-roman_to_int.py | def roman_to_int(roman_string): |
 |   |   |   |   |
-|   |   |   |   |
-|  |   |   | ADVANCED TASKS |
+| ADV |   |   |  |
+| ANCED |   |   |  |
+| TASKS |   |   |  |
 | 13 | Weighted average! | 100-weight_average.py | def weight_average(my_list=[]): |
 | 14 | Squared by using map | 101-square_matrix_map.py | def square_matrix_map(matrix=[]): |
 | 15 | Delete by value | 102-complex_delete.py | def complex_delete(a_dictionary, value): |
@@ -270,4 +306,3 @@
             * **PyBytes_GET_SIZE**
 
 ##
-
