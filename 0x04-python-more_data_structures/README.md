@@ -1,5 +1,5 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
-<H1 align="center"> <ins> 0x04. Python- More Data Structures: <br> Set, Dictionary README.md File</ins> </H1>
+<H1 align="center", height="1500"> <ins> 0x04. Python- More Data Structures: <br> Set, Dictionary README.md File</ins> </H1>
 
 ![Beki Habesha.]( https://i.ibb.co/5WfyHVB/Alx-logo-0x04-Python-More-Data-Structures-Set-Dictionary.jpg)
 
@@ -18,11 +18,14 @@
 
 ##
 
-<h2 align="left"> PROJECT_TITLE:</h2> <br> <h2 align="center"> <ins>0x04. Python- More Data Structures, Set, Dictionary</ins> </h2>
+### **PROJECT_TITLE:**
+<h2 align="center"> <ins>0x04. Python- More Data Structures, Set, Dictionary</ins> </h2>
 
-### **GITHUB_REPOSITORY:**<br><h2 align="center"> <ins>alx-higher_level_programming</ins> </h2>
+### **GITHUB_REPOSITORY:**
+<h2 align="center"> <ins>alx-higher_level_programming</ins> </h2>
 
-### **DIRECTORY:**<br><h2 align="center"> <ins>0x04-python-more_data_structures</ins> </h2>
+### **DIRECTORY:**
+<h2 align="center"> <ins>0x04-python-more_data_structures</ins> </h2>
 
 ##
 
@@ -32,8 +35,7 @@
 | :----: | :----:| :---- | :---- |
 |   |   |   |   |
 |   |   |   |   |
-|   | MANDATORY TASKS|  |  |
-|   |  | TASKS |  |
+|   | MANDATORY TASKS |  |  |
 |   |   |   |   |
 |   |   |   |  |
 | 0 | 0. Squared simple | 0-square_matrix_simple.py | def square_matrix_simple(matrix=[]): |
@@ -51,8 +53,7 @@
 | 12 | Roman to Integer | 12-roman_to_int.py | def roman_to_int(roman_string): |
 |   |   |   |   |
 |  |   |   |  |
-|  | ADVANCED |  |  |
-|  |  | TASKS |  |
+|  | ADVANCED TASKS |  |  |
 |  |   |   |  |
 |  |   |   |  |
 | 13 | Weighted average! | 100-weight_average.py | def weight_average(my_list=[]): |
