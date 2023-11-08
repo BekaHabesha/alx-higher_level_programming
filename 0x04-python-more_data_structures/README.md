@@ -1,5 +1,5 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
-<H1 align="center", height="1500"> <ins> 0x04.Python-More Data Structures: Set, Dictionary<br> README.md File</ins> </H1>
+<H1 align="center", height="1500"> <ins> 0x04. Python- More Data Structures: Set, Dictionary <br>README.md File</ins> </H1>
 
 ![Beki Habesha.]( https://i.ibb.co/5WfyHVB/Alx-logo-0x04-Python-More-Data-Structures-Set-Dictionary.jpg)
 
@@ -69,7 +69,7 @@
 
 <h1 align="center"> <ins> PROJECT TASKS (Mandatory and Advanced)</h1> </ins>
 
-<h1 align="center">MANDATORY_TASKS (From Task 0 to 13)*</h1>
+<h1 align="center">MANDATORY_TASKS (From Task 0 to 12)*</h1>
 
 ## **No. 0. Squared simple**
   * <ins>**0-square_matrix_simple.py**</ins>
@@ -231,7 +231,7 @@
 
 #
 
-<h1 align="center"> ADVANCED_TASKS (From Task 14 to 16)*</h1>
+<h1 align="center"> ADVANCED_TASKS (From Task 13 to 16)*</h1>
 
 ## **No. 13. Weighted average!**
   * <ins>**100-weight_average.py**</ins>
