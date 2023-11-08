@@ -19,22 +19,25 @@
 ##
 
 ### **PROJECT_TITLE:**
-<h2 align="center"> <ins>0x04. Python- More Data Structures, Set, Dictionary</ins> </h2>
+<br><h2 align="center"> <ins>0x04. Python- More Data Structures, Set, Dictionary</ins> </h2>
 
 ### **GITHUB_REPOSITORY:**
-<h2 align="center"> <ins>alx-higher_level_programming</ins> </h2>
+<br><h2 align="center"> <ins>alx-higher_level_programming</ins> </h2>
 
 ### **DIRECTORY:**
-<h2 align="center"> <ins>0x04-python-more_data_structures</ins> </h2>
+<br><h2 align="center"> <ins>0x04-python-more_data_structures</ins> </h2>
 
 ##
 
 # 0x04.Python-Project Prototype Lists Table
 
 | Task NO. | Title | File | Prototype |
-| :----: | :----:| :----: | :----: |
+| :----: | :----:| :---- | :---- |
 |   |   |   |   |
-|   | MANDATORY | TASKS |  |
+|   |   |   |   |
+|   | MANDATORY |  |  |
+|   |  | TASKS |  |
+|   |   |   |   |
 |   |   |   |  |
 | 0 | 0. Squared simple | 0-square_matrix_simple.py | def square_matrix_simple(matrix=[]): |
 | 1 | Search and replace | 1-search_replace.py | def search_replace(my_list, search, replace): |
@@ -51,7 +54,8 @@
 | 12 | Roman to Integer | 12-roman_to_int.py | def roman_to_int(roman_string): |
 |   |   |   |   |
 |  |   |   |  |
-|  | ADVANCED | TASKS |  |
+|  | ADVANCED |  |  |
+|  |  | TASKS |  |
 |  |   |   |  |
 |  |   |   |  |
 | 13 | Weighted average! | 100-weight_average.py | def weight_average(my_list=[]): |
