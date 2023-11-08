@@ -18,7 +18,7 @@
 
 ##
 
-### **PROJECT_TITLE:**<br><h2 align="center"> <ins>0x04. Python- More Data Structures, Set, Dictionary</ins> </h2>
+<h2 align="left"> PROJECT_TITLE:</h2> <br> <h2 align="center"> <ins>0x04. Python- More Data Structures, Set, Dictionary</ins> </h2>
 
 ### **GITHUB_REPOSITORY:**<br><h2 align="center"> <ins>alx-higher_level_programming</ins> </h2>
 
@@ -32,7 +32,7 @@
 | :----: | :----:| :---- | :---- |
 |   |   |   |   |
 |   |   |   |   |
-|   | MANDATORY |  |  |
+|   | MANDATORY TASKS|  |  |
 |   |  | TASKS |  |
 |   |   |   |   |
 |   |   |   |  |
