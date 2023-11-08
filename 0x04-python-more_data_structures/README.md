@@ -1,7 +1,9 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center"> <ins> 0x04. Python- More Data Structures: <br> Set, Dictionary README.md File</ins> </H1>
 
-![Beki Habesha.]( https://i.ibb.co/pybj9ng/Alx-logo-0x04-Python-More-Data-Structures-Set-Dictionary.png)
+![Beki Habesha.]( https://i.ibb.co/5WfyHVB/Alx-logo-0x04-Python-More-Data-Structures-Set-Dictionary.jpg)
+
+##
 
 * File_name: <ins>**README.md file**</ins>
 * Created: <ins>**On November 11, 2023**</ins>
@@ -32,9 +34,8 @@
 | Task NO. | Title | File | Prototype |
 | :----: | :----:| :----: | :----: |
 |   |   |   |   |
-| MANDA |   |   |  |
-| TORY  |   |   |  |
-| TASKS |   |   |  |
+|   | MANDATORY | TASKS |  |
+|   |   |   |  |
 | 0 | 0. Squared simple | 0-square_matrix_simple.py | def square_matrix_simple(matrix=[]): |
 | 1 | Search and replace | 1-search_replace.py | def search_replace(my_list, search, replace): |
 | 2 | Unique addition | 2-uniq_add.py | def uniq_add(my_list=[]): |
@@ -49,9 +50,10 @@
 | 11 | Multiply by using map | 11-multiply_list_map.py | def multiply_list_map(my_list=[], number=0): |
 | 12 | Roman to Integer | 12-roman_to_int.py | def roman_to_int(roman_string): |
 |   |   |   |   |
-| ADV |   |   |  |
-| ANCED |   |   |  |
-| TASKS |   |   |  |
+|  |   |   |  |
+|  | ADVANCED | TASKS |  |
+|  |   |   |  |
+|  |   |   |  |
 | 13 | Weighted average! | 100-weight_average.py | def weight_average(my_list=[]): |
 | 14 | Squared by using map | 101-square_matrix_map.py | def square_matrix_map(matrix=[]): |
 | 15 | Delete by value | 102-complex_delete.py | def complex_delete(a_dictionary, value): |
