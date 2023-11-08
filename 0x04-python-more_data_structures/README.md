@@ -3,9 +3,6 @@
 
 ![Beki Habesha.]( https://i.ibb.co/pybj9ng/Alx-logo-0x04-Python-More-Data-Structures-Set-Dictionary.png)
 
-
-##
-
 * File_name: <ins>**README.md file**</ins>
 * Created: <ins>**On November 11, 2023**</ins>
 * Author: <ins>***Bereket Dereje Mekonnen***</ins>
