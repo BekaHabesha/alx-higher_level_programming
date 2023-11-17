@@ -62,6 +62,11 @@
 | 16 | CPython #1: PyBytesObject | 103-python.c | void print_python_list(PyObject *p); |
 | 16.1 | Python lists: |  | void print_python_list(PyObject *p); |
 | 16.2 | Python bytes: |  | void print_python_bytes(PyObject *p); |
+|   |   |   |   |
+|   |   |   |   |
+| 10 | CPython #2: PyFloatObject | 103-python.c | * void print_python_list(PyObject *p); 
+ * void print_python_bytes(PyObject *p); 
+ * void print_python_float(PyObject *p); |
 
 ##
 
