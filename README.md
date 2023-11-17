@@ -93,7 +93,7 @@
 
 <h1 align="center"> <ins>Requirements</h1> </ins>
 
-![My alx. ]( https://miro.medium.com/v2/resize:fit:640/format:webp/1*YbbnH9bxCORtCyLxrF4OsQ.jpeg)
+![My alx. ]( https://yourengineer.in/wp-content/uploads/2021/08/Python-Programming-e1628700625240.png)
 
 ## ***Python Scripts***
   * <ins>**Allowed editors**</ins>:
@@ -187,6 +187,6 @@
   * The <ins>**Zen of Python</ins>**,
     * by <ins>**Tim Peters</ins>**
 
-![My alx. ]( https://miro.medium.com/v2/resize:fit:640/format:webp/1*YbbnH9bxCORtCyLxrF4OsQ.jpeg)
+![My alx. ]( https://builtin.com/cdn-cgi/image/f=auto,quality=80,width=752,height=435/https://builtin.com/sites/www.builtin.com/files/styles/byline_image/public/2022-09/robot-code-robotics-robotic-programming-language.png)
 
 ###
