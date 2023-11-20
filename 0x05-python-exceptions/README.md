@@ -327,7 +327,7 @@
 
 #
 
-<h1 align="center"> ADVANCED_TASKS (From Task 13 to 16)</h1>
+<h1 align="center"> ADVANCED_TASKS (From Task 7 to 10)</h1>
 
 ## **No. 7. Safe integer print with error message**
   * 
