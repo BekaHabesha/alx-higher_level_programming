@@ -2,7 +2,7 @@
 # Author - Bereket Dereje
 
 def safe_print_list(my_list=[], x=0):
-    """Print x elements of a list.
+    """Print x elememts of a list.
 
     Args:
         my_list (list): The list to print elements from.
@@ -12,13 +12,12 @@ def safe_print_list(my_list=[], x=0):
     Returns:
         The real number of elements printed.
     """
-
     n = 0
     for m in range(x):
         try:
-           print("{}".format(my_list[m], end="")
-           n += 1
+            print("{}".format(my_list[m]), end="")
+            n += 1
         except IndexError:
-           break
+            break
     print("")
     return (n)
