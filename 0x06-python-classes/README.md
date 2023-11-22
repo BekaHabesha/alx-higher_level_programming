@@ -273,8 +273,7 @@
 ##
 
 ## **No. 2. Size validation**
-  *
-    * File:
+  * File:
       * <ins>**2-square.py**</ins>
     *
     * <ins>**Write a class Square**</ins>
