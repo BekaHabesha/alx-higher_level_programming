@@ -257,7 +257,7 @@
   * 
     * File:
       * <ins>**1-square.py**</ins>
-  *  
+    *
     * <ins>**Write a class Square**</ins>
       * that defines a **square by:**
         * (based on **0-square.py**)
@@ -273,7 +273,8 @@
 ##
 
 ## **No. 2. Size validation**
-  * File:
+  * 
+    * File:
       * <ins>**2-square.py**</ins>
     *
     * <ins>**Write a class Square**</ins>
@@ -299,10 +300,10 @@
 ##
 
 ## **No. 3. Area of a square**
-  *   
+  * 
     * File:
       * <ins>**3-square.py**</ins>
-  *  
+    *
     * <ins>**Write a class Square**</ins>
       * that defines a **square by:**
         * (based on **2-square.py**)
@@ -318,7 +319,7 @@
                 * raise a <ins>**ValueError**</ins> 
                   * exception with the **message** 
                     * <ins>**size must be >= 0**</ins>
-  * 
+          *
           * Public instance method: 
             * <ins>**def area(self)</ins>:**
               * that returns the current square area
@@ -333,7 +334,7 @@
   * 
     * File:
       * <ins>**4-square.py**</ins>
-  *  
+    *  
     * <ins>**Write a class Square**</ins>
       * that defines a **square by:**
         * (based on **3-square.py**)
@@ -350,14 +351,14 @@
                   * raise a <ins>**ValueError**</ins> 
                     * exception with the **message** 
                       * <ins>**size must be >= 0**</ins>
-  *  
+          *
           * Instantiation with optional **size**:  
             * <ins>**def __init__(self, size=0)</ins>:**
-  *  
+          *
           * Public instance method: 
             * <ins>**def area(self)</ins>:**
               * that returns the current square area
-  *  
+          *
           * You are not allowed
             * To import **any module**
 
@@ -386,7 +387,7 @@
   * 
     * File:
       * <ins>**5-square.py**</ins>
-  *  
+    *  
     * <ins>**Write a class Square**</ins>
       * that defines a **square by:**
         * (based on **4-square.py**)
@@ -404,20 +405,20 @@
                   * raise a <ins>**ValueError**</ins> 
                     * exception with the **message** 
                       * <ins>**size must be >= 0**</ins>
-  *  
+          *  
           * Instantiation with optional **size**:  
             * <ins>**def __init__(self, size=0)</ins>:**
-  *  
+          *  
           * Public instance method: 
             * <ins>**def area(self)</ins>:**
               * that returns the current square area
-  *  
+          *  
           * Public instance method: 
             * <ins>**def my_print(self)</ins>:**
               * that **prints in stdout** the square with the character **#:**
                 * If **size** is equal to **0**, 
                   * <ins>**print an empty line</ins>**
-  *   
+          *  
           * You are not allowed
             * To import **any module**
 
@@ -429,7 +430,7 @@
   * 
     * File:
       * <ins>**6-square.py**</ins>
-  *   
+    *   
     * <ins>**Write a class Square**</ins>
       * that defines a **square by:**
         * (based on **5-square.py**)
@@ -447,7 +448,7 @@
                   * raise a <ins>**ValueError**</ins> 
                     * exception with the **message** 
                       * <ins>**size must be >= 0**</ins>
-  *  
+          *  
           * Private instance attribute: 
             * <ins>**position**</ins>:
               * property 
@@ -460,14 +461,14 @@
                     * otherwise raise a <ins>**TypeError**</ins> 
                       * exception with the **message** 
                         * <ins>**position must be a tuple of 2 positive integers**</ins>
-  *  
+          *  
           * Instantiation with optional **size** and optional **position**:  
             * <ins>**def __init__(self, size=0, position=(0, 0))</ins>:**
-  *  
+          *  
           * Public instance method: 
             * <ins>**def area(self)</ins>:**
               * that returns the current square area
-  *  
+          *  
           * Public instance method: 
             * <ins>**def my_print(self)</ins>:**
               * that **prints in stdout** the square with the character **#:**
@@ -476,7 +477,7 @@
                 * **position** should be use by using space - 
                   * **Don’t fill lines by spaces** when 
                     * <ins>**position[1] > 0</ins>**
-  * 
+          *  
           * You are not allowed
             * To import **any module**
 
@@ -491,10 +492,10 @@
   * 
     * File:
       * <ins>**100-singly_linked_list.py**</ins>
-  *   
+    *   
     * <ins>**Write a class Node**</ins>
       * that defines a **node of a singly linked list by:**
-  *  
+        *  
         * Private instance attribute: 
           * <ins>**data**</ins>:
           * property
@@ -507,7 +508,7 @@
                 * otherwise raise a <ins>**TypeError**</ins> 
                   * exception with the **message** 
                     * <ins>**data must be an integer**</ins>
-  *  
+          *  
           * Private instance attribute: 
             * <ins>**next_node**</ins>:
               * property 
@@ -520,13 +521,13 @@
                     * otherwise raise a <ins>**TypeError**</ins> 
                       * exception with the **message** 
                         * <ins>**next_node must be a Node object**</ins>
-  *   
+          *  
           * Instantiation with **data** and **next_node**:  
             * <ins>**def __init__(self, data, next_node=None)</ins>:**
-  *   
+    *   
     * And, <ins>**Write a class SinglyLinkedList**</ins>
       * that defines a **singly linked list by:**
-  *   
+      *   
         * Private instance attribute: 
           * <ins>**head**</ins> (no setter or getter)
         * Simple instantiation:
@@ -538,7 +539,7 @@
           * <ins>**def sorted_insert(self, value)</ins>:**
             * that inserts a new **Node** into
             *  the correct sorted position in the list (increasing order)
-  *   
+          *   
           * You are not allowed
             * To import **any module**
 
@@ -550,7 +551,7 @@
   * 
     * File:
       * <ins>**101-square.py**</ins>
-  *   
+    *   
     * <ins>**Write a class Square**</ins>
       * that defines a **square by:**
         * (based on **6-square.py**)
@@ -570,7 +571,7 @@
                     * raise a <ins>**ValueError**</ins> 
                       * exception with the **message** 
                         * <ins>**size must be >= 0**</ins>
-  *   
+          *  
           * Private instance attribute: 
             * <ins>**position**</ins>:
               * property 
@@ -583,25 +584,25 @@
                     * otherwise raise a <ins>**TypeError**</ins> 
                       * exception with the **message** 
                         * <ins>**position must be a tuple of 2 positive integers**</ins>
-  *   
+          *  
           * Instantiation with optional **size** and optional **position**:  
             * <ins>**def __init__(self, size=0, position=(0, 0))</ins>:**
-  *  
+          *  
           * Public instance method: 
             * <ins>**def area(self)</ins>:**
               * that returns the current square area
-  *   
+          *  
           * Public instance method: 
             * <ins>**def my_print(self)</ins>:**
               * that **prints in stdout** the square with the character **#:**
                 * If **size** is equal to **0**, 
                   * <ins>**print an empty line</ins>**
                 * **position** should be use by using space
-   *   
+           *  
            * Printing a <ins>**Square</ins>** instance 
              * should have the same behavior as 
                * <ins>**my_print()</ins>**
-  *   
+          *   
           * You are not allowed
             * To import **any module**
 
@@ -614,7 +615,7 @@
   * 
     * File:
       * <ins>**102-square.py**</ins>
-  *   
+    *   
     * <ins>**Write a class Square**</ins>
       * that defines a **square by:**
         * (based on **4-square.py**)
@@ -634,18 +635,18 @@
                     * raise a <ins>**ValueError**</ins> 
                       * exception with the **message** 
                         * <ins>**size must be >= 0**</ins>
-  *  
+          *  
           * Instantiation with **size** :  
             * <ins>**def __init__(self, size=0)</ins>:**
-  *   
+          *  
           * Public instance method: 
             * <ins>**def area(self)</ins>:**
               * that returns the current square area
-  *  
+          *  
           * <ins>**Square**</ins> instance can answer to comparators:
             * <ins>**==, !=, >, >=, < and <= </ins>**
               * based on the square area
-  *   
+          *   
           * You are not allowed
             * To import **any module**
  
@@ -658,7 +659,7 @@
   * 
     * File:
       * <ins>**103-magic_class.py**</ins>
-  *   
+    *   
     * <ins>**Write the class**</ins>
       * <ins>**MagicClass**:
         * that does exactly the same as the following **Python bytecode:**
