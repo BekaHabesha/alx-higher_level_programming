@@ -273,7 +273,7 @@
 ##
 
 ## **No. 2. Size validation**
-    *
+  *
     * File:
       * <ins>**2-square.py**</ins>
     *
