@@ -27,14 +27,14 @@
 ### **DIRECTORY:**
 <h2 align="center"> <ins>0x07-python-test_driven_development</ins> </h2>
 
-[doctest — Test interactive Python examples](https://intranet.alxswe.com/rltoken/BwZJVq2MQ1_Vg_3gphoitQ)
 ![My alx. ]( https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif)
 
 ##
 
-<H1 align="center", height="1500"><ins>0x07.Python - Test-driven development Project<br> Function Prototype Lists Table and Tests Folder</ins></H1> :floppy_disk:
+<H1 align="center", height="1500"><ins>Function Prototype Lists Table and Tests Folder</ins></H1> :floppy_disk:
 
 <H2>Project Function Prototype Lists Table</H2>:cd: :heavy_check_mark:
+
 | Task NO. | Title | File | Prototype |
 | :----: | :----:| :---- | :---- |
 |   |   |   |   |
