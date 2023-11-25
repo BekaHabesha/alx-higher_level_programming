@@ -3,6 +3,9 @@
 
 ![beka.]( https://i.ibb.co/X4tyVBF/0x07-py-Alx-logo.png)
 
+![Beki Habesha.]( https://i.ibb.co/qpBMt7G/0x07-Python-Alx-logo.jpg)
+![Beki Habesha.]( https://i.ibb.co/gmj5gDm/0x07-Python-Alx-logo.png)
+
 ##
 
 * File_name: <ins>**README.md file**</ins>
