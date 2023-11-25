@@ -87,7 +87,7 @@
 ![My alx. ]( https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif)
 
 <H1 align="center", height="1500"> <ins> Background Context </ins> </H1>
-<H2, height="1500">Important notice on intranet checks for Python projects</H2>
+<H2>Important notice on intranet checks for Python projects</H2>
 
 * <ins>**Starting from today</ins>:**
   * Based on the requirements of each task, <ins>**you should always write the documentation <br> (module(s) + function(s)) and tests first**</ins>, before you actually code anything
