@@ -30,8 +30,7 @@
 ##
 
 <H1 align="center", height="1500"> <ins> Concepts</ins>:floppy_disk:</H1>
-* For this project, we expect you to look at this concept:
-  * [Never forget a test](https://intranet.alxswe.com/concepts/47)
+* For this project, we expect you to look at this concept: [Never forget a test](https://intranet.alxswe.com/concepts/47)
 
 ![My alx. ]( https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif)
 
