@@ -3,6 +3,8 @@
 
 ##
 
+![Beki Habesha.]( https://i.ibb.co/gmj5gDm/0x07-Python-Alx-logo.png)
+![Beki Habesha.]( https://i.ibb.co/qpBMt7G/0x07-Python-Alx-logo.jpg)
 
 ##
 
