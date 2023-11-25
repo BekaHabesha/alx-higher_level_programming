@@ -355,9 +355,10 @@
   * <ins>**102-python.c**</ins>
 
 ![Beki Habesha.]( https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/2c4f2b92514745519f833afdf5bc5f3eaff8c6ca.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231124T163331Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=bb8154c5150fd39a12f19c66cba6c106693239fcb742d56c5d3d073237c014b4)
+
 ###
 * <ins>**Create a function**</ins> that prints<ins>**Python strings.**</ins>
-  * <ins>***Prototype</ins>:*** **void print_python_string(PyObject *p);**
+  * <ins>***Prototype</ins>:*** -- __void print_python_string(PyObject *p);__--
   * <ins>***Format</ins>:*** **see example**
   * If <ins>**p**</ins> is <ins>**not a valid string**</ins>, **print an error message** (see example)
   * <ins>***Read</ins>:*** [Unicode HOWTO](https://intranet.alxswe.com/rltoken/UkkHHaILiYf9d_a3nc4Bxw)
