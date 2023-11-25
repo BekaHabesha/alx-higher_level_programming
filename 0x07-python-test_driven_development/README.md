@@ -1,11 +1,7 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center", height="1500"> <ins> 0x07. Python - Test-driven development README.md File</ins> </H1>
 
-![Beki Habesha.]( https://i.ibb.co/GvKqGGN/0x07-Python-Test-driven-development-Alx-enginn-w-out-writting-org-logo.jpg)
-
-![Beki Habesha.]( https://i.ibb.co/gmj5gDm/0x07-Python-Alx-logo.png)
-![Beki Habesha.]( https://i.ibb.co/qpBMt7G/0x07-Python-Alx-logo.jpg)
-
+![Beki Habesha.]( https://i.ibb.co/j6RXyPm/0x07-py-Alx-logo.jpg)
 
 ##
 
