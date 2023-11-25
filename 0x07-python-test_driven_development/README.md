@@ -353,7 +353,8 @@
 ## **No. 8. CPython #3: Python Strings**
 * File:
   * <ins>**102-python.c**</ins>
-https://github.com/BekaHabesha/alx-higher_level_programming/assets/139154433/faa08def-2d70-40ca-9073-f7652315abc1
+
+![Beki] ( https://github.com/BekaHabesha/alx-higher_level_programming/assets/139154433/faa08def-2d70-40ca-9073-f7652315abc1)
 
 ###
 * <ins>**Create a function**</ins> that prints<ins>**Python strings.**</ins>
