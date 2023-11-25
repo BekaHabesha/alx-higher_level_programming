@@ -1,7 +1,7 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center", height="1500"> <ins> 0x07. Python - Test-driven development README.md File</ins> </H1>
 
-![Beki Habesha.]( https://i.ibb.co/cTg3gSq/0x07-Python-Test-driven-development-Alx-enginn-w-out-writting-org-logo.jpg)
+![Beki Habesha.]( https://i.ibb.co/qCsXzZ4/0x07-Python-Test-driven-development-Alx-enginn-w-out-writting-org-logo.jpg)
 
 ##
 
@@ -31,9 +31,9 @@
 
 ##
 
-<H1 align="center", height="1500"><ins>Function Prototype Lists Table and Tests Folder</ins></H1> :floppy_disk:
+<H1 align="center", height="1500"><ins>Function Prototype Lists Table and Tests Folder</ins>:floppy_disk:</H1>
 
-<H2>Project Function Prototype Lists Table</H2>:cd: :heavy_check_mark:
+<H2>Project Function Prototype Lists Table:cd::heavy_check_mark:</H2>
 
 | Task NO. | Title | File | Prototype |
 | :----: | :----:| :---- | :---- |
@@ -60,7 +60,7 @@
 |   |   |   |   |
 ##
 
-<H2>Project Tests Folder Location</H2>:cd: :heavy_check_mark:
+<H2>Project Tests Folder Location:cd::heavy_check_mark:</H2>
 
 * <ins>**Click</ins>:**
   * <ins>**tests</ins>:** For tests folder and all files in tests folder. or 
@@ -81,10 +81,8 @@
 
 <H1><ins>Concepts</ins>:floppy_disk:</H1>
 
-* For this project, we expect you to look at this concept:
-  * [Never forget a test](https://intranet.alxswe.com/concepts/47)
+* For this project, we expect you to look at this concept: [Never forget a test](https://intranet.alxswe.com/concepts/47)
 
-[doctest — Test interactive Python examples](https://intranet.alxswe.com/rltoken/BwZJVq2MQ1_Vg_3gphoitQ)
 ![My alx. ]( https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif)
 
 ## **Never forget a test**:cd:
@@ -137,7 +135,7 @@
 ![My alx. ]( https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif)
 
 <H1 align="center", height="1500"> <ins> Background Context </ins>:floppy_disk:</H1>
-<H3>Important notice on intranet checks for Python projects</H3>:cd:
+<H3>Important notice on intranet checks for Python projects:cd:</H3>
 
 * <ins>**Starting from today</ins>:**
   * Based on the requirements of each task, <ins>**you should always write the documentation (module(s) + function(s)) and tests first**</ins>, before you actually code anything
@@ -164,14 +162,14 @@
 
 <H1 align="center"><ins>Learning Objectives</ins>:floppy_disk:</H1>
 
-### **Learning Objectives**:cd:
 * At the end of this project, You are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/tYtzLvssHW_9zR6SZQlNrQ), **Without the help of Google:**
 
 ![Alx.]( https://pythonweb.org/wp-content/uploads/2021/04/Programming-HD-Wallpapers-Python-And-Other-Coding-1024x576.jpg)
 
 #
 
-<H2> <ins>General Learning Objectives</ins> :heavy_check_mark:</H2>
+<H2> <ins>General Learning Objectives</ins>:cd::heavy_check_mark:</H2>
+
 * Why Python programming is awesome
 * What’s an interactive test
 * Why tests are important
@@ -183,7 +181,8 @@
 ![My alx. ]( https://ciracollege.com/wp-content/uploads/2020/11/How-to-Learn-Python.jpg)
 
 ###
-<H2> <ins>*Copyright - Plagiarism*</ins> :heavy_check_mark:</H2>
+<H2> <ins>Copyright - Plagiarism</ins>:cd::heavy_check_mark:</H2>
+
 * You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 * You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 * You are not allowed to publish any content of this project.
@@ -195,7 +194,8 @@
 
 <H1 align="center"> <ins>Requirements</ins>:floppy_disk:</H1>
 
-<H2> <ins>**Python Scripts**</ins> :heavy_check_mark:</H2>
+<H2><ins>Python Scripts</ins> :heavy_check_mark:</H2>
+
 * Allowed editors: <ins>**vi**</ins>, <ins>**vim**</ins>, <ins>**emacs**</ins>.
 * All your files will be **interpreted/compiled** on <ins>**Ubuntu 20.04 LTS**</ins> Using <ins>**python3**</ins> (version 3.8.5)
 * All your files should **end with a new line**
@@ -205,7 +205,8 @@
 * All **your files** must be **executable**.
 * The length of your files will be tested using **wc**.
 
-<H2> <ins>**Python Test Cases***</ins> :heavy_check_mark:</H2>
+<H2> <ins>Python Test Cases</ins> :heavy_check_mark:</H2>
+
 * Allowed editors: <ins>**vi**</ins>, <ins>**vim**</ins>, <ins>**emacs**</ins>.
 * All your files should **end with a new line**
 * All your tests files should be **inside a folder <ins>tests</ins>**
@@ -247,9 +248,9 @@
 
 ![BekaHabesha.]( https://i.ibb.co/y5wmQyd/Alx-enginn-Build-ur-future.png)
 
-<H1 align="center"> <ins> PROJECT TASKS (Mandatory and Advanced)</ins>floppy_disk:</H1>
+<H1 align="center"> <ins> PROJECT TASKS (Mandatory and Advanced)</ins>:floppy_disk:</H1>
 
-<H1 align="center">MANDATORY_TASKS (From Task 0 to 5)</h1>:cd:
+<H1 align="center">MANDATORY_TASKS (From Task 0 to 5):cd:</h1>
 
 ## **No. 0. Integers addition**:heavy_check_mark:
 * File:
@@ -260,7 +261,7 @@
   * <ins>***Prototype</ins>:*** **def add_integer(a, b=98):**
   * <ins>**a**</ins> and <ins>**b**</ins> must be <ins>**integers**</ins> or <ins>**floats**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**a must be an integer**</ins> or <ins>**b must be an integer**</ins>
   * <ins>**a**</ins> and <ins>**b**</ins> must be <ins>**first casted to integers</ins>** if they are <ins>**float</ins>**
-  * <ins>***Returns an integer: the addition of <ins>**a**</ins> and <ins>**b**</ins>
+  * <ins>***Returns an integer</ins>:*** the addition of <ins>**a**</ins> and <ins>**b**</ins>
   * You are not allowed to <ins>**import any module**</ins>
 
 ![Beki Habesha.]( https://i.ibb.co/S5sqVz8/0-main-0x07-Python-Test-driven-development.png)
@@ -276,7 +277,7 @@
   * <ins>***Prototype</ins>:*** **def matrix_divided(matrix, div):**
   * <ins>**matrix**</ins> must be a list of lists of <ins>**integers**</ins> or <ins>**floats**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**matrix must be a matrix (list of lists) of integers/floats**</ins>
   * Each row of the <ins>**matrix**</ins> must be of the same size, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**Each row of the matrix must have the same size**</ins>
-  * <ins>***div<ins>** must be a **number (<ins>**integer**</ins> or <ins>**float**</ins>), otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**division by zero**</ins>
+  * <ins>***div</ins>** must be a **number** (<ins>**integer**</ins> or <ins>**float**</ins>), otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**division by zero**</ins>
   * All elements of the matrix should be divided by <ins>**div**</ins>, rounded to 2 decimal places
   * Returns a <ins>**new matrix**</ins>
   * You are not allowed to <ins>**import any module**</ins>
@@ -315,7 +316,7 @@
 * <ins>**Write a function**</ins> that prints<ins>**a square with the character #.**</ins>
   * <ins>***Prototype</ins>:*** **def print_square(size):**
   * <ins>**size**</ins> is the size length of the square.
-  * <ins>**size**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>*size must be an integer**</ins>
+  * <ins>**size**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**size must be an integer**</ins>
   * If <ins>**size**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**size must be >= 0**</ins>
   * If <ins>**size**</ins> is a <ins>**float**</ins> and is less than <ins>**0**</ins>, raise a <ins>**TypeError**</ins> exception with the message <ins>**size must be an integer**</ins>
   * You are not allowed to <ins>**import any module**</ins>
@@ -358,7 +359,7 @@
 
 #
 
-<h1 align="center"> ADVANCED_TASKS (From Task 6 to 8)</h1>:cd:
+<h1 align="center"> ADVANCED_TASKS (From Task 6 to 8):cd:</h1>
 
 ## **No. 6. Matrix multiplication**:heavy_check_mark:
 * File:
@@ -374,7 +375,7 @@
     * If **m_a** or **m_b** is **not a list of lists:** raise a <ins>**TypeError**</ins> exception with the message **m_a <ins>must be a list of lists**</ins> or **m_b <ins>must be a list of lists**</ins>
     * If **m_a** or **m_b** is **is empty (it means: = [] or = [[]]):** raise a <ins>**ValueError**</ins> exception with the message **m_a <ins>can't be empty**</ins> or **m_b <ins>can't be empty**</ins>
     * If <ins>**one element of those list of lists**</ins> is **not an integer or a float:** raise a <ins>**TypeError**</ins> exception with the message **m_a <ins>should contain only integers or floats**</ins> or **m_b <ins>should contain only integers or floats**</ins>
-    * If **m_a** or **m_b** is **not a rectangle (all ‘rows’ should be of the same size): ** raise a <ins>**TypeError**</ins> exception with the message <ins>**each row of</ins> m_a <ins>must be of the same size**</ins> or <ins>**each row of</ins> m_b <ins>must be of the same size**</ins>
+    * If **m_a** or **m_b** is **not a rectangle (all ‘rows’ should be of the same size):** raise a <ins>**TypeError**</ins> exception with the message <ins>**each row of</ins> m_a <ins>must be of the same size**</ins> or <ins>**each row of</ins> m_b <ins>must be of the same size**</ins>
   * If **m_a** or **m_b** **can’t be multiplied:** raise a <ins>**ValueError**</ins> exception with the message **m_a and m_b <ins>can't be multiplied**</ins>
   * You are not allowed to <ins>**import any module**</ins>
 
