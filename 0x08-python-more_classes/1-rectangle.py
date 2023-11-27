@@ -42,39 +42,3 @@ class Rectangle:
         if value < 0:
             raise ValueError("height must be >= 0")
         self.__height = value
-
-:wq or :x
-
-or
-
-#!/usr/bin/python3
-# Author - Bereket Dereje
-
-def safe_print_integer(value):
-    try:
-        print("{:d}".format(value))
-    except(ValueError, TypeError):
-        return False
-    else:
-        return True
-
-:wq or :x
-
-for pla
-
-#!/usr/bin/python3
-# Author - Bereket Dereje
-
-"""Define a class Square."""
-
-
-class Square:
-    """Represent a square."""
-
-    def __init__(self, size):
-        """Initialize a new Square.
-
-        Args:
-            size (int): The size of the new square.
-        """
-        self.__size = size
