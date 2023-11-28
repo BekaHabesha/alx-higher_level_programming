@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-#Author Bereket Dereje
-
 """Defines a locked class."""
 
 
