@@ -164,8 +164,8 @@
   * <ins>**2-answer.txt**</ins>
 ###
 * In the following code, do a and b point to the same object? Answer with Yes or No.
-  **>>> a = 89<br>
-  >>> b = 100**
+  **>>> a = 89**<br>
+  **>>> b = 100**
 
 ##
 
