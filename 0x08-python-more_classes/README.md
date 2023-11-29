@@ -1,7 +1,7 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center", height="1500"> <ins> 0x08. Python - More Classes and Objects README.md File</ins> </H1>
 
-![Beki Habesha.]( ![BekaHabesha.]( https://i.ibb.co/y5wmQyd/Alx-enginn-Build-ur-future.png))
+![BekaHabesha.]( https://i.ibb.co/1s3X0yr/0x08-Python-More-Classes-and-Objects-Alx-logo.png)
 
 ##
 
@@ -27,8 +27,6 @@
 ### **DIRECTORY:**
 <h2 align="center"> <ins>0x08-python-more_classes</ins> </h2>
 
-![My alx. ]( https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif)
-
 ##
 
 <h1 align="center"> <ins>Resources</ins>:floppy_disk:</H1>
@@ -51,39 +49,39 @@
 
 #
 
-<H2> <ins>General Learning Objectives</ins>:cd::heavy_check_mark:</H2>
+<H2> <ins>General Learning Objectives</ins>:heavy_check_mark:</H2>
 
 * Why Python programming is awesome
-* What is OOP
-* “first-class everything”
-* What is a class
-* What is an object and an instance
-* What is the difference between a class and an object or instance
-* What is an attribute
-* What are and how to use public, protected and private attributes
-* What is **self**
-* What is a method
+* What is <ins>**OOP</ins>**
+* **“first-class everything”**
+* What is a <ins>**class</ins>**
+* What is an <ins>**object</ins>** and an <ins>**instance</ins>**
+* What is the difference between a <ins>**class</ins>** and an <ins>**object</ins>** or <ins>**instance</ins>**
+* What is an <ins>**attribute</ins>**
+* What are and how to use <ins>**public</ins>**, <ins>**protected</ins>** and <ins>**private attributes</ins>**
+* What is <ins>**self</ins>**
+* What is a <ins>**method</ins>**
 * What is the special **__init__** method and how to use it
-* What is Data Abstraction, Data Encapsulation, and Information Hiding
-* What is a property
-* What is the difference between an attribute and a property in Python
-* What is the Pythonic way to write getters and setters in Python
+* What is <ins>**Data Abstraction</ins>**, <ins>**Data Encapsulation</ins>**, and <ins>**Information Hiding</ins>**
+* What is a <ins>**property</ins>**
+* What is the difference between an <ins>**attribute</ins>** and a <ins>**property</ins>** in <ins>**Python</ins>**
+* What is the <ins>**Pythonic way</ins>** to <ins>**write getters</ins>** and<ins>**setters</ins>** in <ins>**Python</ins>**
 * What are the special **__str__** and **__repr__** methods and how to use them
 * What is the difference between **__str__** and **__repr__**
-* What is a class attribute
-* What is the difference between a object attribute and a class attribute
-* What is a class method
-* What is a static method
-* How to dynamically create arbitrary new attributes for existing instances of a class
-* How to bind attributes to object and classes
+* What is a <ins>**class attribute</ins>**
+* What is the difference between a <ins>**object attribute</ins>** and a <ins>**class attribute</ins>**
+* What is a <ins>**class method</ins>**
+* What is a <ins>**static method</ins>**
+* How to <ins>**dynamically</ins>** create <ins>**arbitrary new attributes</ins>** for <ins>**existing instances</ins>** of a class
+* How to <ins>**bind attributes</ins>** to <ins>**object</ins>** and <ins>**classes</ins>**
 * What is and what does contain **__dict__** of a class and of an instance of a class
-* How does Python find the attributes of an object or class
-* How to use the **getattr** function
+* How does <ins>**Python</ins>** find the <ins>**attributes</ins>** of an <ins>**object</ins>** or <ins>**class</ins>**
+* How to use the <ins>**getattr</ins>** **function**
 
 ![My alx. ]( https://ciracollege.com/wp-content/uploads/2020/11/How-to-Learn-Python.jpg)
 
 ###
-<H2> <ins>Copyright - Plagiarism</ins>:cd::heavy_check_mark:</H2>
+<H2> <ins>Copyright - Plagiarism</ins>:heavy_check_mark:</H2>
 
 * You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 * You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
@@ -145,10 +143,13 @@
 * File:
   * <ins>**0-rectangle.py**</ins>
 ###
-* <ins>**Write an empty class Rectangle that defines a rectangle:**</ins>
+* Write an **empty class** <ins>**Rectangle**</ins> that defines a **rectangle:**
   * You are not allowed to <ins>**import any module**</ins>
 
-![Beki Habesha.]( https://i.ibb.co/S5sqVz8/0-main-0x07-Python-Test-driven-development.png)
+![Beki Habesha.]( https://i.ibb.co/P1ZydRN/0-main-0x08-Python-More-Classes-and-Objects.png)
+
+> [!NOTE]
+> **No test cases needed.**
 
 ##
 
@@ -156,16 +157,26 @@
 * File:
   * <ins>**1-rectangle.py**</ins>
 ###
-* <ins>**Write a class Rectangle that defines a rectangle by: (based on 0-rectangle.py)**</ins>
-  * <ins>***Prototype</ins>:*** **def matrix_divided(matrix, div):**
-  * <ins>**matrix**</ins> must be a list of lists of <ins>**integers**</ins> or <ins>**floats**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**matrix must be a matrix (list of lists) of integers/floats**</ins>
-  * Each row of the <ins>**matrix**</ins> must be of the same size, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**Each row of the matrix must have the same size**</ins>
-  * <ins>***div</ins>** must be a **number** (<ins>**integer**</ins> or <ins>**float**</ins>), otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**division by zero**</ins>
-  * All elements of the matrix should be divided by <ins>**div**</ins>, rounded to 2 decimal places
-  * Returns a <ins>**new matrix**</ins>
+* * Write a **class** <ins>**Rectangle**</ins> that defines a **rectangle** by: (based on **</ins>0-rectangle.py**</ins>)
+  * <ins>***Private instance attribute</ins>:*** **width:**
+    * property <ins>**def width(self)</ins>:**  to retrieve it
+    * property setter <ins>**def width(self, value)</ins>:**  to set it:
+      * <ins>**width**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**width must be an integer**</ins>
+      * If <ins>**width**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**width must be >= 0**</ins>
+###
+  * <ins>***Private instance attribute</ins>:*** **height:**
+    * property <ins>**def height(self)</ins>:**  to retrieve it
+    * property setter <ins>**def height(self, value)</ins>:**  to set it:
+      * <ins>**height**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**height must be an integer**</ins>
+      * If <ins>**height**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**height must be >= 0**</ins>
+###
+  * Instantiation with optional <ins>**width**</ins> and <ins>**height</ins>:** **def __init__(self, width=0, height=0):**
   * You are not allowed to <ins>**import any module**</ins>
 
-![Beki Habesha.]( https://i.ibb.co/PW25jVf/1-main-0x07-Python-Test-driven-development.png)
+![Beki Habesha.]( https://i.ibb.co/zmLgvnb/1-main-0x08-Python-More-Classes-and-Objects.png)
+
+> [!NOTE]
+> **No test cases needed.**
 
 ##
 
@@ -173,12 +184,26 @@
 * File:
   * <ins>**2-rectangle.py**</ins>
 ###
-* <ins>**Write a class Rectangle that defines a rectangle by: (based on 1-rectangle.py)**</ins>
-  * <ins>***Prototype</ins>:*** **def say_my_name(first_name, last_name=""):**
-  * <ins>**first_name**</ins> and <ins>**last_name**</ins> must be <ins>**strings**</ins> otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**first_name must be a string**</ins> or <ins>**last_name must be a string**</ins>
+* Write a **class** <ins>**Rectangle**</ins> that defines a **rectangle** by: (based on **</ins>1-rectangle.py**</ins>)
+  * <ins>***Private instance attribute</ins>:*** **width:**
+    * property <ins>**def width(self)</ins>:**  to retrieve it
+    * property setter <ins>**def width(self, value)</ins>:**  to set it:
+      * <ins>**width**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**width must be an integer**</ins>
+      * If <ins>**width**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**width must be >= 0**</ins>
+###
+  * <ins>***Private instance attribute</ins>:*** **height:**
+    * property <ins>**def height(self)</ins>:**  to retrieve it
+    * property setter <ins>**def height(self, value)</ins>:**  to set it:
+      * <ins>**height**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**height must be an integer**</ins>
+      * If <ins>**height**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**height must be >= 0**</ins>
+###
+  * Instantiation with optional <ins>**width**</ins> and <ins>**height</ins>:** **def __init__(self, width=0, height=0):**
+  * **Public instance method:** <ins>**def area(self)</ins>:** that returns the **rectangle area**
+  * **Public instance method:** <ins>**def perimeter(self)</ins>:** that returns the **rectangle perimeter:**
+    * If <ins>**width**</ins> or <ins>**height**</ins> is equal to <ins>**0**</ins>, **perimeter** is equal to <ins>**0**</ins>
   * You are not allowed to <ins>**import any module**</ins>
 
-![Beki Habesha.]( https://i.ibb.co/zS7bmSZ/2-main-0x07-Python-Test-driven-development.png)
+![Beki Habesha.]( https://i.ibb.co/dgwdXvd/2-main-0x08-Python-More-Classes-and-Objects.png)
 
 > [!NOTE]
 > **No test cases needed.**
@@ -189,15 +214,29 @@
 * File:
   * <ins>**3-rectangle.py**</ins>
 ###
-* <ins>**Write a class Rectangle that defines a rectangle by: (based on 2-rectangle.py)**</ins>
-  * <ins>***Prototype</ins>:*** **def print_square(size):**
-  * <ins>**size**</ins> is the size length of the square.
-  * <ins>**size**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**size must be an integer**</ins>
-  * If <ins>**size**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**size must be >= 0**</ins>
-  * If <ins>**size**</ins> is a <ins>**float**</ins> and is less than <ins>**0**</ins>, raise a <ins>**TypeError**</ins> exception with the message <ins>**size must be an integer**</ins>
+* Write a **class** <ins>**Rectangle**</ins> that defines a **rectangle** by: (based on **</ins>2-rectangle.py**</ins>)
+  * <ins>***Private instance attribute</ins>:*** **width:**
+    * property <ins>**def width(self)</ins>:**  to retrieve it
+    * property setter <ins>**def width(self, value)</ins>:**  to set it:
+      * <ins>**width**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**width must be an integer**</ins>
+      * If <ins>**width**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**width must be >= 0**</ins>
+###
+  * <ins>***Private instance attribute</ins>:*** **height:**
+    * property <ins>**def height(self)</ins>:**  to retrieve it
+    * property setter <ins>**def height(self, value)</ins>:**  to set it:
+      * <ins>**height**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**height must be an integer**</ins>
+      * If <ins>**height**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**height must be >= 0**</ins>
+###
+  * Instantiation with optional <ins>**width**</ins> and <ins>**height</ins>:** **def __init__(self, width=0, height=0):**
+  * **Public instance method:** <ins>**def area(self)</ins>:** that returns the **rectangle area**
+  * **Public instance method:** <ins>**def perimeter(self)</ins>:** that returns the **rectangle perimeter:**
+    * If <ins>**width**</ins> or <ins>**height**</ins> is equal to <ins>**0**</ins>, **perimeter** is equal to <ins>**0**</ins>
+  * <ins>**print()</ins>** and <ins>**str()</ins>** should print the rectangle with the character **#:** (see example below)
+    * If <ins>**width**</ins> or <ins>**height**</ins> is equal to <ins>**0**</ins>, **return** an <ins>**empty string**</ins>
   * You are not allowed to <ins>**import any module**</ins>
 
-![Beki Habesha.]( https://i.ibb.co/n6SDGNM/3-main-0x07-Python-Test-driven-development.png)
+![Beki Habesha.]( https://i.ibb.co/XbqRc6w/3-1-main-0x08-Python-More-Classes-and-Objects.png)
+![Beki Habesha.]( https://i.ibb.co/72jp1jb/3-2-main-0x08-Python-More-Classes-and-Objects.png)
 
 > [!NOTE]
 > **Object address can be different**
@@ -210,14 +249,30 @@
 * File:
   * <ins>**4-rectangle.py**</ins>
 ###
-* <ins>**Write a function**</ins> that prints<ins>**a text with 2 new lines after each of these characters: ., ? and :**</ins>
-  * <ins>***Prototype</ins>:*** **def text_indentation(text):**
-  * <ins>**text**</ins> must be a <ins>**string**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**text must be a string**</ins>
-  * There should be <ins>**no space**</ins> at the <ins>**beginning**</ins> or at the <ins>**end of each printed line**</ins>
+* Write a **class** <ins>**Rectangle**</ins> that defines a **rectangle** by: (based on **</ins>3-rectangle.py**</ins>)
+  * <ins>***Private instance attribute</ins>:*** **width:**
+    * property <ins>**def width(self)</ins>:**  to retrieve it
+    * property setter <ins>**def width(self, value)</ins>:**  to set it:
+      * <ins>**width**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**width must be an integer**</ins>
+      * If <ins>**width**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**width must be >= 0**</ins>
+###
+  * <ins>***Private instance attribute</ins>:*** **height:**
+    * property <ins>**def height(self)</ins>:**  to retrieve it
+    * property setter <ins>**def height(self, value)</ins>:**  to set it:
+      * <ins>**height**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**height must be an integer**</ins>
+      * If <ins>**height**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**height must be >= 0**</ins>
+###
+  * Instantiation with optional <ins>**width**</ins> and <ins>**height</ins>:** **def __init__(self, width=0, height=0):**
+  * **Public instance method:** <ins>**def area(self)</ins>:** that returns the **rectangle area**
+  * **Public instance method:** <ins>**def perimeter(self)</ins>:** that returns the **rectangle perimeter:**
+    * If <ins>**width**</ins> or <ins>**height**</ins> is equal to <ins>**0**</ins>, **perimeter** is equal to <ins>**0**</ins>
+  * <ins>**print()</ins>** and <ins>**str()</ins>** should print the rectangle with the character **#:** (see example below)
+    * If <ins>**width**</ins> or <ins>**height**</ins> is equal to <ins>**0**</ins>, **return** an <ins>**empty string**</ins>
+  * <ins>**str()</ins>** should return a **string** representation of the **rectangle** to be able to recreate a new instance by using <ins>**eval()</ins>** (see example below)
   * You are not allowed to <ins>**import any module**</ins>
 
-
-![Beki Habesha.]( https://i.ibb.co/znQfW9y/4-main-0x07-Python-Test-driven-development.png)
+![Beki Habesha.]( https://i.ibb.co/r58CbRc/4-1-main-0x08-Python-More-Classes-and-Objects.png)
+![Beki Habesha.]( https://i.ibb.co/YdKLbRH/4-2-main-0x08-Python-More-Classes-and-Objects.png)
 
 > [!NOTE]
 > **No test cases needed.**
@@ -228,17 +283,30 @@
 * File:
   * <ins>**5-rectangle.py**</ins>
 ###
-* Since the beginning you have been creating <ins>**“Interactive tests”**</ins>. For this exercise, you will add <ins>**Unittests.**</ins>
+* Write a **class** <ins>**Rectangle**</ins> that defines a **rectangle** by: (based on **</ins>4-rectangle.py**</ins>)
+  * <ins>***Private instance attribute</ins>:*** **width:**
+    * property <ins>**def width(self)</ins>:**  to retrieve it
+    * property setter <ins>**def width(self, value)</ins>:**  to set it:
+      * <ins>**width**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**width must be an integer**</ins>
+      * If <ins>**width**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**width must be >= 0**</ins>
 ###
-* In this task, you will <ins>**Write unittests for the function**</ins> <ins>**def max_integer(list=[]):**</ins>
-  * Your test file should be inside a folder <ins>**tests</ins>:**
-  * Your have to use the [unittest module](https://intranet.alxswe.com/rltoken/hX5a13o-1mXGTQASWBitFQ)
-  * Your test file should be<ins>**python files**</ins> (extension: <ins>**.py**</ins>)
-  * Your test file should be executed by using this command: <ins>**python3 -m unittest tests.6-max_integer_test**</ins>
-  * All tests you make must be passable by the function below
-  * We strongly encourage you to work together on test cases, so that you don’t miss any edge case
+  * <ins>***Private instance attribute</ins>:*** **height:**
+    * property <ins>**def height(self)</ins>:**  to retrieve it
+    * property setter <ins>**def height(self, value)</ins>:**  to set it:
+      * <ins>**height**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**height must be an integer**</ins>
+      * If <ins>**height**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**height must be >= 0**</ins>
+###
+  * Instantiation with optional <ins>**width**</ins> and <ins>**height</ins>:** **def __init__(self, width=0, height=0):**
+  * **Public instance method:** <ins>**def area(self)</ins>:** that returns the **rectangle area**
+  * **Public instance method:** <ins>**def perimeter(self)</ins>:** that returns the **rectangle perimeter:**
+    * If <ins>**width**</ins> or <ins>**height**</ins> is equal to <ins>**0**</ins>, **perimeter** is equal to <ins>**0**</ins>
+  * <ins>**print()</ins>** and <ins>**str()</ins>** should print the rectangle with the character **#:** (see example below)
+    * If <ins>**width**</ins> or <ins>**height**</ins> is equal to <ins>**0**</ins>, **return** an <ins>**empty string**</ins>
+  * <ins>**repr()</ins>** should return a **string** representation of the **rectangle** to be able to recreate a new instance by using <ins>**eval()</ins>**
+  * Print the message <ins>**Bye rectangle... (...</ins>** being 3 dots not ellipsis) when an instance of <ins>**Rectangle**</ins> is deleted
+  * You are not allowed to <ins>**import any module**</ins>
 
-![Beki Habesha.]( https://i.ibb.co/42g8CyK/5-main-0x07-Python-Test-driven-development.png)
+![Beki Habesha.]( https://i.ibb.co/55t4GmH/5-main-0x08-Python-More-Classes-and-Objects.png)
 
 > [!NOTE]
 > **No test cases needed.**
@@ -249,21 +317,35 @@
 * File:
   * <ins>**6-rectangle.py**</ins>
 ###
-* <ins>**Write a function**</ins> that <ins>**multiplies 2 matrices:**</ins>
-  * <ins>***Read</ins>:*** [ Matrix multiplication - only Matrix product (two matrices)](https://intranet.alxswe.com/rltoken/Qw_rYR3lYYL5DHDH-iCWCA)
-  * <ins>***Prototype</ins>:*** **def matrix_mul(m_a, m_b):**
-  * **m_a** and **m_b** must be validated with these requirements in this order.
-  * **m_a** and **m_b** must be va list of lists of <ins>**integers**</ins> or <ins>**floats**</ins>:
-    * If **m_a** or **m_b** is **not a list:** raise a <ins>**TypeError**</ins> exception with the message **m_a <ins>must be a list**</ins> or **m_b <ins>must be a list**</ins>
-    * If **m_a** or **m_b** is **not a list of lists:** raise a <ins>**TypeError**</ins> exception with the message **m_a <ins>must be a list of lists**</ins> or **m_b <ins>must be a list of lists**</ins>
-    * If **m_a** or **m_b** is **is empty (it means: = [] or = [[]]):** raise a <ins>**ValueError**</ins> exception with the message **m_a <ins>can't be empty**</ins> or **m_b <ins>can't be empty**</ins>
-    * If <ins>**one element of those list of lists**</ins> is **not an integer or a float:** raise a <ins>**TypeError**</ins> exception with the message **m_a <ins>should contain only integers or floats**</ins> or **m_b <ins>should contain only integers or floats**</ins>
-    * If **m_a** or **m_b** is **not a rectangle (all ‘rows’ should be of the same size):** raise a <ins>**TypeError**</ins> exception with the message <ins>**each row of</ins> m_a <ins>must be of the same size**</ins> or <ins>**each row of</ins> m_b <ins>must be of the same size**</ins>
-  * If **m_a** or **m_b** **can’t be multiplied:** raise a <ins>**ValueError**</ins> exception with the message **m_a and m_b <ins>can't be multiplied**</ins>
+* Write a **class** <ins>**Rectangle**</ins> that defines a **rectangle** by: (based on **</ins>5-rectangle.py**</ins>)
+  * <ins>***Private instance attribute</ins>:*** **width:**
+    * property <ins>**def width(self)</ins>:**  to retrieve it
+    * property setter <ins>**def width(self, value)</ins>:**  to set it:
+      * <ins>**width**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**width must be an integer**</ins>
+      * If <ins>**width**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**width must be >= 0**</ins>
+###
+  * <ins>***Private instance attribute</ins>:*** **height:**
+    * property <ins>**def height(self)</ins>:**  to retrieve it
+    * property setter <ins>**def height(self, value)</ins>:**  to set it:
+      * <ins>**height**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**height must be an integer**</ins>
+      * If <ins>**height**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**height must be >= 0**</ins>
+###
+  * <ins>***Public class attribute</ins>:*** **number_of_instances:**
+    * Initialized to <ins>**0</ins>**
+    * <ins>**Incremented</ins>** during each <ins>**new instance instantiation</ins>**
+    * <ins>**Decremented</ins>** during each <ins>**instance deletion</ins>**
+###
+  * Instantiation with optional <ins>**width**</ins> and <ins>**height</ins>:** **def __init__(self, width=0, height=0):**
+  * **Public instance method:** <ins>**def area(self)</ins>:** that returns the **rectangle area**
+  * **Public instance method:** <ins>**def perimeter(self)</ins>:** that returns the **rectangle perimeter:**
+    * If <ins>**width**</ins> or <ins>**height**</ins> is equal to <ins>**0**</ins>, **perimeter** is equal to <ins>**0**</ins>
+  * <ins>**print()</ins>** and <ins>**str()</ins>** should print the rectangle with the character **#:** (see example below)
+    * If <ins>**width**</ins> or <ins>**height**</ins> is equal to <ins>**0**</ins>, **return** an <ins>**empty string**</ins>
+  * <ins>**repr()</ins>** should return a **string** representation of the **rectangle** to be able to recreate a new instance by using <ins>**eval()</ins>**
+  * Print the message <ins>**Bye rectangle... (...</ins>** being 3 dots not ellipsis) when an instance of <ins>**Rectangle**</ins> is deleted
   * You are not allowed to <ins>**import any module**</ins>
 
-
-![Beki Habesha.]( https://i.ibb.co/SfpZS2Q/6-main-0x07-Python-Test-driven-development.png)
+![Beki Habesha.]( https://i.ibb.co/XYr9H3S/6-main-0x08-Python-More-Classes-and-Objects.png)
 
 > [!NOTE]
 > **No test cases needed.**
@@ -274,12 +356,41 @@
 * File:
   * <ins>**7-rectangle.py**</ins>
 ###
-* <ins>**Write a function**</ins> that multiplies<ins>**2 matrices**</ins> by using **the module** [Numpy](https://intranet.alxswe.com/rltoken/sXnBuOVSyhKEGt-biOyOWg)
-* <ins>**To install it</ins>:** **pip3 install numpy==1.15.0**
-  * <ins>***Prototype</ins>:*** **def lazy_matrix_mul(m_a, m_b):**
-  * <ins>**Test cases**</ins> should be the same as <ins>**100-matrix_mul**</ins>, but with new exception <ins>**text must be a stringtype/message**</ins>
+* Write a **class** <ins>**Rectangle**</ins> that defines a **rectangle** by: (based on **</ins>6-rectangle.py**</ins>)
+  * <ins>***Private instance attribute</ins>:*** **width:**
+    * property <ins>**def width(self)</ins>:**  to retrieve it
+    * property setter <ins>**def width(self, value)</ins>:**  to set it:
+      * <ins>**width**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**width must be an integer**</ins>
+      * If <ins>**width**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**width must be >= 0**</ins>
+###
+  * <ins>***Private instance attribute</ins>:*** **height:**
+    * property <ins>**def height(self)</ins>:**  to retrieve it
+    * property setter <ins>**def height(self, value)</ins>:**  to set it:
+      * <ins>**height**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**height must be an integer**</ins>
+      * If <ins>**height**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**height must be >= 0**</ins>
+###
+  * <ins>***Public class attribute</ins>:*** **number_of_instances:**
+    * Initialized to <ins>**0</ins>**
+    * <ins>**Incremented</ins>** during each <ins>**new instance instantiation</ins>**
+    * <ins>**Decremented</ins>** during each <ins>**instance deletion</ins>**
+###
+  * <ins>***Public class attribute</ins>:*** **print_symbol:**
+    * Initialized to <ins>**#</ins>**
+    * Used as <ins>**symbol</ins>** for <ins>**string representation</ins>**
+    * Can be <ins>**any type</ins>**
+###
+  * Instantiation with optional <ins>**width**</ins> and <ins>**height</ins>:** **def __init__(self, width=0, height=0):**
+  * **Public instance method:** <ins>**def area(self)</ins>:** that returns the **rectangle area**
+  * **Public instance method:** <ins>**def perimeter(self)</ins>:** that returns the **rectangle perimeter:**
+    * If <ins>**width**</ins> or <ins>**height**</ins> is equal to <ins>**0**</ins>, **perimeter** is equal to <ins>**0**</ins>
+  * <ins>**print()</ins>** and <ins>**str()</ins>** should print the rectangle with the character **#:** (see example below)
+    * If <ins>**width**</ins> or <ins>**height**</ins> is equal to <ins>**0**</ins>, **return** an <ins>**empty string**</ins>
+  * <ins>**repr()</ins>** should return a **string** representation of the **rectangle** to be able to recreate a new instance by using <ins>**eval()</ins>**
+  * Print the message <ins>**Bye rectangle... (...</ins>** being 3 dots not ellipsis) when an instance of <ins>**Rectangle**</ins> is deleted
+  * You are not allowed to <ins>**import any module**</ins>
 
-![Beki Habesha.]( https://i.ibb.co/bJrtvh6/7-main-0x07-Python-Test-driven-development.png)
+![Beki Habesha.]( https://i.ibb.co/Z8XPwZf/7-1-main-0x08-Python-More-Classes-and-Objects.png)
+![Beki Habesha.]( https://i.ibb.co/bzNTMCH/7-2-main-0x08-Python-More-Classes-and-Objects.png)
 
 > [!NOTE]
 > **No test cases needed.**
@@ -290,18 +401,44 @@
 * File:
   * <ins>**8-rectangle.py**</ins>
 ###
-* <ins>**Create a function**</ins> that prints<ins>**Python strings.**</ins>
-  * <ins>***Prototype</ins>:*** __void print_python_string(PyObject *p);__
-  * <ins>***Format</ins>:*** **see example**
-  * If <ins>**p**</ins> is <ins>**not a valid string**</ins>, **print an error message** (see example)
-  * <ins>***Read</ins>:*** [Unicode HOWTO](https://intranet.alxswe.com/rltoken/UkkHHaILiYf9d_a3nc4Bxw)
+* Write a **class** <ins>**Rectangle**</ins> that defines a **rectangle** by: (based on **</ins>7-rectangle.py**</ins>)
+  * <ins>***Private instance attribute</ins>:*** **width:**
+    * property <ins>**def width(self)</ins>:**  to retrieve it
+    * property setter <ins>**def width(self, value)</ins>:**  to set it:
+      * <ins>**width**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**width must be an integer**</ins>
+      * If <ins>**width**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**width must be >= 0**</ins>
 ###
-* <ins>**About</ins>:**
-  * <ins>***Python version</ins>:*** **3.4**
-  * You are **allowed to use** the <ins>**C standard library</ins>** 
-  * Your <ins>**shared library**</ins> will be compiled with **this command line:** **gcc -shared -Wl,-soname,libPython.so -o libPython.so -fPIC -I/usr/include/python3.4 102-python.c**
+  * <ins>***Private instance attribute</ins>:*** **height:**
+    * property <ins>**def height(self)</ins>:**  to retrieve it
+    * property setter <ins>**def height(self, value)</ins>:**  to set it:
+      * <ins>**height**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**height must be an integer**</ins>
+      * If <ins>**height**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**height must be >= 0**</ins>
+###
+  * <ins>***Public class attribute</ins>:*** **number_of_instances:**
+    * Initialized to <ins>**0</ins>**
+    * <ins>**Incremented</ins>** during each <ins>**new instance instantiation</ins>**
+    * <ins>**Decremented</ins>** during each <ins>**instance deletion</ins>**
+###
+  * <ins>***Public class attribute</ins>:*** **print_symbol:**
+    * Initialized to <ins>**#</ins>**
+    * Used as <ins>**symbol</ins>** for <ins>**string representation</ins>**
+    * Can be <ins>**any type</ins>**
+###
+  * Instantiation with optional <ins>**width**</ins> and <ins>**height</ins>:** **def __init__(self, width=0, height=0):**
+  * **Public instance method:** <ins>**def area(self)</ins>:** that returns the **rectangle area**
+  * **Public instance method:** <ins>**def perimeter(self)</ins>:** that returns the **rectangle perimeter:**
+    * If <ins>**width**</ins> or <ins>**height**</ins> is equal to <ins>**0**</ins>, **perimeter** is equal to <ins>**0**</ins>
+  * <ins>**print()</ins>** and <ins>**str()</ins>** should print the rectangle with the character **#:** (see example below)
+    * If <ins>**width**</ins> or <ins>**height**</ins> is equal to <ins>**0**</ins>, **return** an <ins>**empty string**</ins>
+  * <ins>**repr()</ins>** should return a **string** representation of the **rectangle** to be able to recreate a new instance by using <ins>**eval()</ins>**
+  * Print the message <ins>**Bye rectangle... (...</ins>** being 3 dots not ellipsis) when an instance of <ins>**Rectangle**</ins> is deleted
+  * <ins>**Static method</ins>** **def bigger_or_equal(rect_1, rect_2):** that **returns** the <ins>**biggest rectangle</ins>** based on the <ins>**area</ins>**
+    * **rect_1** must be an instance of <ins>**Rectangle**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message **rect_1 <ins>must be an instance of Rectangle**</ins>
+    * **rect_2** must be an instance of <ins>**Rectangle**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message **rect_2 <ins>must be an instance of Rectangle**</ins>
+    * Returns **rect_1** if both have the <ins>**same area value**</ins>
+  * You are not allowed to <ins>**import any module**</ins>
 
-![Beki Habesha.]( https://i.ibb.co/ZfsNp4g/8-main-0x07-Python-Test-driven-development.png)
+![Beki Habesha.]( https://i.ibb.co/B40NGWL/8-main-0x08-Python-More-Classes-and-Objects.png)
 
 > [!NOTE]
 > **No test cases needed.**
@@ -312,17 +449,45 @@
 * File:
   * <ins>**9-rectangle.py**</ins>
 ###
-* Since the beginning you have been creating <ins>**“Interactive tests”**</ins>. For this exercise, you will add <ins>**Unittests.**</ins>
+* Write a **class** <ins>**Rectangle**</ins> that defines a **rectangle** by: (based on **</ins>8-rectangle.py**</ins>)
+  * <ins>***Private instance attribute</ins>:*** **width:**
+    * property <ins>**def width(self)</ins>:**  to retrieve it
+    * property setter <ins>**def width(self, value)</ins>:**  to set it:
+      * <ins>**width**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**width must be an integer**</ins>
+      * If <ins>**width**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**width must be >= 0**</ins>
 ###
-* In this task, you will <ins>**Write unittests for the function**</ins> <ins>**def max_integer(list=[]):**</ins>
-  * Your test file should be inside a folder <ins>**tests</ins>:**
-  * Your have to use the [unittest module](https://intranet.alxswe.com/rltoken/hX5a13o-1mXGTQASWBitFQ)
-  * Your test file should be<ins>**python files**</ins> (extension: <ins>**.py**</ins>)
-  * Your test file should be executed by using this command: <ins>**python3 -m unittest tests.6-max_integer_test**</ins>
-  * All tests you make must be passable by the function below
-  * We strongly encourage you to work together on test cases, so that you don’t miss any edge case
+  * <ins>***Private instance attribute</ins>:*** **height:**
+    * property <ins>**def height(self)</ins>:**  to retrieve it
+    * property setter <ins>**def height(self, value)</ins>:**  to set it:
+      * <ins>**height**</ins> must be an <ins>**integer**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message <ins>**height must be an integer**</ins>
+      * If <ins>**height**</ins> is less than <ins>**0**</ins>, raise a <ins>**ValueError**</ins> exception with the message <ins>**height must be >= 0**</ins>
+###
+  * <ins>***Public class attribute</ins>:*** **number_of_instances:**
+    * Initialized to <ins>**0</ins>**
+    * <ins>**Incremented</ins>** during each <ins>**new instance instantiation</ins>**
+    * <ins>**Decremented</ins>** during each <ins>**instance deletion</ins>**
+###
+  * <ins>***Public class attribute</ins>:*** **print_symbol:**
+    * Initialized to <ins>**#</ins>**
+    * Used as <ins>**symbol</ins>** for <ins>**string representation</ins>**
+    * Can be <ins>**any type</ins>**
+###
+  * Instantiation with optional <ins>**width**</ins> and <ins>**height</ins>:** **def __init__(self, width=0, height=0):**
+  * **Public instance method:** <ins>**def area(self)</ins>:** that returns the **rectangle area**
+  * **Public instance method:** <ins>**def perimeter(self)</ins>:** that returns the **rectangle perimeter:**
+    * If <ins>**width**</ins> or <ins>**height**</ins> is equal to <ins>**0**</ins>, **perimeter** is equal to <ins>**0**</ins>
+  * <ins>**print()</ins>** and <ins>**str()</ins>** should print the rectangle with the character **#:** (see example below)
+    * If <ins>**width**</ins> or <ins>**height**</ins> is equal to <ins>**0**</ins>, **return** an <ins>**empty string**</ins>
+  * <ins>**repr()</ins>** should return a **string** representation of the **rectangle** to be able to recreate a new instance by using <ins>**eval()</ins>**
+  * Print the message <ins>**Bye rectangle... (...</ins>** being 3 dots not ellipsis) when an instance of <ins>**Rectangle**</ins> is deleted
+  * <ins>**Static method</ins>** **def bigger_or_equal(rect_1, rect_2):** that **returns** the <ins>**biggest rectangle</ins>** based on the <ins>**area</ins>**
+    * **rect_1** must be an instance of <ins>**Rectangle**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message **rect_1 <ins>must be an instance of Rectangle**</ins>
+    * **rect_2** must be an instance of <ins>**Rectangle**</ins>, otherwise raise a <ins>**TypeError**</ins> exception with the message **rect_2 <ins>must be an instance of Rectangle**</ins>
+    * Returns **rect_1** if both have the <ins>**same area value**</ins>
+  * <ins>**Class method</ins>** **def square(cls, size=0):** that **returns** a new <ins>**Rectangle instance</ins>** with <ins>**width == height == size</ins>**
+  * You are not allowed to <ins>**import any module**</ins>
 
-![Beki Habesha.]( https://i.ibb.co/42g8CyK/5-main-0x07-Python-Test-driven-development.png)
+![Beki Habesha.]( https://i.ibb.co/YZwH1zC/9-main-0x08-Python-More-Classes-and-Objects.png)
 
 > [!NOTE]
 > **No test cases needed.**
@@ -336,25 +501,30 @@
   * <ins>**101-nqueens.py**</ins>
 
 ![Beki Habesha.]( http://www.crestbook.com/files/Judit-photo1_602x433.jpg)
-
+Chess grandmaster [Judit Polgár](https://intranet.alxswe.com/rltoken/bsRwbt64OvYjWaClriv0jg), the strongest female chess player of all time
 ###
-* <ins>**Write a function**</ins> that <ins>**multiplies 2 matrices:**</ins>
-  * <ins>***Read</ins>:*** [ Matrix multiplication - only Matrix product (two matrices)](https://intranet.alxswe.com/rltoken/Qw_rYR3lYYL5DHDH-iCWCA)
-  * <ins>***Prototype</ins>:*** **def matrix_mul(m_a, m_b):**
-  * **m_a** and **m_b** must be validated with these requirements in this order.
-  * **m_a** and **m_b** must be va list of lists of <ins>**integers**</ins> or <ins>**floats**</ins>:
-    * If **m_a** or **m_b** is **not a list:** raise a <ins>**TypeError**</ins> exception with the message **m_a <ins>must be a list**</ins> or **m_b <ins>must be a list**</ins>
-    * If **m_a** or **m_b** is **not a list of lists:** raise a <ins>**TypeError**</ins> exception with the message **m_a <ins>must be a list of lists**</ins> or **m_b <ins>must be a list of lists**</ins>
-    * If **m_a** or **m_b** is **is empty (it means: = [] or = [[]]):** raise a <ins>**ValueError**</ins> exception with the message **m_a <ins>can't be empty**</ins> or **m_b <ins>can't be empty**</ins>
-    * If <ins>**one element of those list of lists**</ins> is **not an integer or a float:** raise a <ins>**TypeError**</ins> exception with the message **m_a <ins>should contain only integers or floats**</ins> or **m_b <ins>should contain only integers or floats**</ins>
-    * If **m_a** or **m_b** is **not a rectangle (all ‘rows’ should be of the same size):** raise a <ins>**TypeError**</ins> exception with the message <ins>**each row of</ins> m_a <ins>must be of the same size**</ins> or <ins>**each row of</ins> m_b <ins>must be of the same size**</ins>
-  * If **m_a** or **m_b** **can’t be multiplied:** raise a <ins>**ValueError**</ins> exception with the message **m_a and m_b <ins>can't be multiplied**</ins>
-  * You are not allowed to <ins>**import any module**</ins>
-
-
-![Beki Habesha.]( https://i.ibb.co/SfpZS2Q/6-main-0x07-Python-Test-driven-development.png)
-
-> [!NOTE]
-> **No test cases needed.**
+* The <ins>**N queens puzzle**</ins> the challenge of placing **<ins>N non-attacking queens**</ins> on an **<ins>N×N chessboard**</ins>. 
+  * Write a **<ins>program**</ins> that solves the **</ins>N queens problem**</ins>.
+###
+  * <ins>**Usage</ins>:** **nqueens N**
+    * If the <ins>**user**</ins> called the <ins>**program</ins>** with the <ins>**wrong number of arguments</ins>**, 
+      * print <ins>**Usage: nqueens N<ins>**, followed by a **new line**, and **exit** with the status <ins>**1</ins>**
+####
+  * where <ins>**N</ins>** must be an **integer <ins>greater</ins> or <ins>equal</ins> to** <ins>4</ins>
+    * If <ins>**N**</ins> is not an <ins>**integer</ins>**, 
+      * print <ins>**N must be a number**, followed by a **new line**, and **exit** with the status <ins>**1</ins>**
+    * If <ins>**N**</ins> is <ins>**smaller than 4</ins>**, 
+      * print <ins>**N must be at least 4**, followed by a **new line**, and **exit** with the status <ins>**1</ins>**
+####
+  * The <ins>**program</ins>** should **print <ins>every possible solution</ins> to the <ins>probleml</ins>**
+    * **One solution <ins>per line**</ins>
+    * **Format: <ins>see example**</ins>
+    * **You don’t have to <ins>print the solutions</ins> in a <ins>specific order**</ins>
+####
+  * **You are only allowed to import the <ins>sys module**</ins>
+####
+* <ins>***Read</ins>:*** [Queen](https://intranet.alxswe.com/rltoken/dAQmi8RxMnLH-iHBzkz-lw),   [Backtracking](https://intranet.alxswe.com/rltoken/TGXZXdY2Awg8m4mSjlrjjA)
+ 
+![Beki Habesha.]( https://i.ibb.co/WBWzkRQ/10-main-0x08-Python-More-Classes-and-Objects.png)
 
 #
