@@ -501,7 +501,7 @@
   * <ins>**101-nqueens.py**</ins>
 
 ![Beki Habesha.]( http://www.crestbook.com/files/Judit-photo1_602x433.jpg)
-Chess grandmaster [Judit Polgár](https://intranet.alxswe.com/rltoken/bsRwbt64OvYjWaClriv0jg), the strongest female chess player of all time
+<br>Chess grandmaster [Judit Polgár](https://intranet.alxswe.com/rltoken/bsRwbt64OvYjWaClriv0jg), the strongest female chess player of all time
 ###
 * The <ins>**N queens puzzle**</ins> the challenge of placing **<ins>N non-attacking queens**</ins> on an **<ins>N×N chessboard**</ins>. 
   * Write a **<ins>program**</ins> that solves the **</ins>N queens problem**</ins>.
