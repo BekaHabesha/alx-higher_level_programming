@@ -38,23 +38,24 @@
 
 **BTW, have you ever modified a variable without knowing it or wanting to? I mean:**
 
-  **>>> a = 1**
-  **>>> b = a**
-  **>>> a = 2**
-  **>>> b**
-  **1**
+  **>>> a = 1**<br>
+  **>>> b = a**<br>
+  **>>> a = 2**<br>
+  **>>> b**<br>
+  **1**<br>
   **>>>**
 
 ####
 
 **OK. But what about this?**
 
-  **>>> l = [1, 2, 3]**
-  **>>> m = l**
-  **>>> l[0] = 'x'**
-  **>>> m**
-  **['x', 2, 3]**
+  **>>> l = [1, 2, 3]**<br>
+  **>>> m = l**<br>
+  **>>> l[0] = 'x'**<br>
+  **>>> m**<br>
+  **['x', 2, 3]**<br>
   **>>>**
+
 ####
 ![My alx. ]( https://media.giphy.com/media/wAjfQ9MLUfFjq/giphy.gif)
 <br>
@@ -371,8 +372,7 @@
 * What does this <ins>**script print</ins>?**
 
   **def increment(n):**<br>
-        **n += 1**<br>
-<br>
+        **n += 1**<br><br>
   **a = 1**<br>
   **increment(a)**<br>
   **print(a)**
@@ -386,8 +386,7 @@
 * What does this <ins>**script print</ins>?**
 
   **def increment(n):**<br>
-        **n.append(4)**<br>
-<br>
+        __n.append(4)__<br><br>
   **l = [1, 2, 3]**<br>
   **increment(1)**<br>
   **print(l)**
@@ -401,8 +400,7 @@
 * What does this <ins>**script print</ins>?**
 
   **def assign_value(n, v):**<br>
-        **n = v**<br>
-<br>
+        **n = v**<br><br>
   **l1 = [1, 2, 3]**<br>
   **l2 = [4, 5, 6]**<br>
   **assign_value(l1, l2)**<br>
