@@ -33,7 +33,7 @@
 
 <H1 align="center", height="1500"><ins>Function Prototype Lists Table and Tests Folder</ins>:floppy_disk:</H1>
 
-<H2>Project Function Prototype Lists Table:cd::heavy_check_mark:</H2>
+<H2>Project Function Prototype Lists Table :cd::heavy_check_mark:</H2>
 
 | Task NO. | Title | File | Prototype |
 | :----: | :----:| :---- | :---- |
@@ -60,7 +60,7 @@
 |   |   |   |   |
 ##
 
-<H2>Project Tests Folder Location:cd::heavy_check_mark:</H2>
+<H2>Project Tests Folder Location :cd::heavy_check_mark:</H2>
 
 * <ins>**Click</ins>:**
   * <ins>**tests</ins>:** For tests folder and all files in tests folder. or 
