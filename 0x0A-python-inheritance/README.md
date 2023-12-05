@@ -108,7 +108,6 @@
 
 <p align="center">
   <img src="https://pynative.com/wp-content/uploads/2021/03/python_inheritance.jpg" />
-  <img src="https://miro.medium.com/v2/1*7kvK8YRB8sAq9Rw2sjkoDQ.png" />
 </p>
 
 <h1> <ins>Resources</ins> :floppy_disk:</H1>
