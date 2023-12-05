@@ -167,7 +167,6 @@
 * Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
 <p align="center">
-  <img src="https://scontent.fadd2-1.fna.fbcdn.net/v/t39.30808-6/293609028_1103321963871370_7050979510969576471_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=783fdb&_nc_ohc=_XVjA0ztNCIAX_Utswm&_nc_ht=scontent.fadd2-1.fna&oh=00_AfCa2_WUSyQKWBi8ZkpO9vx1FJqUchzmz5XZZJ-cKoPI3w&oe=6572A4A4" />
   <img src="https://i.ibb.co/8csnv7s/Alx-do-hard-things.jpg" />
 </p>
 
