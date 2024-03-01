@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# Author - Bereket Dereje
+
 """
 A Python script that:
   - takes in a URL,
