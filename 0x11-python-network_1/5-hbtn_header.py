@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # Author - Bereket Dereje
 
+
 """
 Python script that:
   - takes in a URL, sends a request to the URL and 
