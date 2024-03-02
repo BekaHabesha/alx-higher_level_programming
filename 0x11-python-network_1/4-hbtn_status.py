@@ -1,13 +1,6 @@
 #!/usr/bin/python3
 # Author - Bereket Dereje
-
-"""
-Python script that:
-  - fetches https://intranet.hbtn.io/status
-  - must use the package requests
-  - not allow to import packages other than requests.
-"""
-
+"""fetches https://intranet.hbtn.io/status."""
 import requests
 
 
