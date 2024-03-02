@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# Author - Bereket Dereje
 """fetches https://intranet.hbtn.io/status."""
 import requests
 
